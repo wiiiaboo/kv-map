@@ -1,0 +1,6953 @@
+{
+  "type": "FeatureCollection",
+  "name": "KV.ee testing snapshot",
+  "capturedAt": "2026-10-09T17:36:19.487Z",
+  "listingCount": 50,
+  "mappedListingCount": 49,
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.155625",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.18090571,
+              59.34290383
+            ],
+            [
+              24.1804687,
+              59.34248146
+            ],
+            [
+              24.18137565,
+              59.34227707
+            ],
+            [
+              24.18181565,
+              59.34269881
+            ],
+            [
+              24.18090571,
+              59.34290383
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "29501:009:0224",
+        "hkood": "2978",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Lääne-Harju vald",
+        "ay_nimi": "Kersalu küla",
+        "l_aadress": "Vanaranna tee 47",
+        "registr": "2003-02-10Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 16500,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 3000,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 3000,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "8368302",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00135314",
+        "adob_id": 7922398,
+        "kolvik_muudet": "2024-01-29T15:36:54.568Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3936939",
+        "listingTitle": "Vanaranna tee 47, Kersalu, Lääne-Harju vald, Harjumaa",
+        "listingPrice": 77777,
+        "listingAreaM2": 3000,
+        "listingPricePerM2": 25.9,
+        "listingURL": "https://www.kv.ee/muua-segametsaga-elamumaa-kloogaranna-kulje-all-ke-3936939",
+        "lastSeen": "2026-10-09T17:32:30.181Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.205708",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.11666308,
+              59.19214018
+            ],
+            [
+              25.11679205,
+              59.19217796
+            ],
+            [
+              25.1169229,
+              59.19221446
+            ],
+            [
+              25.11703918,
+              59.1922439
+            ],
+            [
+              25.11713023,
+              59.1922618
+            ],
+            [
+              25.11727075,
+              59.1922887
+            ],
+            [
+              25.11720082,
+              59.19252785
+            ],
+            [
+              25.11705124,
+              59.1926585
+            ],
+            [
+              25.11586403,
+              59.19229569
+            ],
+            [
+              25.11618658,
+              59.1919839
+            ],
+            [
+              25.1163621,
+              59.19204327
+            ],
+            [
+              25.11651652,
+              59.1920943
+            ],
+            [
+              25.11666308,
+              59.19214018
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "33701:002:0653",
+        "hkood": "3492",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Kose vald",
+        "ay_nimi": "Krei küla",
+        "l_aadress": "Värava",
+        "registr": "2006-05-03Z",
+        "muudet": "2025-12-11Z",
+        "maks_hind": 618,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 3017,
+        "haritav": null,
+        "rohumaa": 2765,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 252,
+        "kinnistu": "9225702",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00175719",
+        "adob_id": 5413011,
+        "kolvik_muudet": "2025-04-20T09:38:41.612Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936898",
+        "listingTitle": "Krei, Kose vald, Harjumaa",
+        "listingPrice": 63000,
+        "listingAreaM2": 3017,
+        "listingPricePerM2": 20.9,
+        "listingURL": "https://www.kv.ee/muugis-on-3017-m-suurune-kinnistu-krei-kulas-100-m-3936898",
+        "lastSeen": "2026-10-09T17:32:33.666Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.497393",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.24679737,
+              58.14609437
+            ],
+            [
+              26.24685872,
+              58.14584794
+            ],
+            [
+              26.24712487,
+              58.14585993
+            ],
+            [
+              26.2471409,
+              58.14587708
+            ],
+            [
+              26.24710677,
+              58.14600336
+            ],
+            [
+              26.24707474,
+              58.14611452
+            ],
+            [
+              26.24679737,
+              58.14609437
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "69402:002:0307",
+        "hkood": "7167",
+        "mk_nimi": "Tartu maakond",
+        "ov_nimi": "Elva vald",
+        "ay_nimi": "Rõngu alevik",
+        "l_aadress": "Ausambaplatsi",
+        "registr": "1999-06-18Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 141,
+        "siht1": "ULDKASUTATAV_MAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 469,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 469,
+        "kinnistu": "7934350",
+        "muutpohjus": "KÜ andmete muutmine",
+        "oiguslik_alus": "Katastripidaja otsus maakatastriseaduse § 19³ lg 2 alusel andmete muutmiseks",
+        "omvorm": "Munitsipaalomand",
+        "marked": "-",
+        "ads_oid": "CU00390674",
+        "adob_id": 9994158,
+        "kolvik_muudet": "2024-02-15T06:33:40.913Z",
+        "geom_muudet": "2020-09-10Z",
+        "listingId": "3936894",
+        "listingTitle": "Rõngu, Elva vald, Tartumaa",
+        "listingPrice": 1000,
+        "listingAreaM2": 469,
+        "listingPricePerM2": 2.13,
+        "listingURL": "https://www.kv.ee/elva-vallavalitsus-muub-enampakkumisel-hoonestamat-3936894",
+        "lastSeen": "2026-10-09T17:32:38.616Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.38516",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.38382516,
+              58.13825502
+            ],
+            [
+              26.38378028,
+              58.13842387
+            ],
+            [
+              26.38311467,
+              58.13831222
+            ],
+            [
+              26.38310113,
+              58.13820934
+            ],
+            [
+              26.38382516,
+              58.13825502
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "17101:001:1447",
+        "hkood": "1813",
+        "mk_nimi": "Tartu maakond",
+        "ov_nimi": "Elva vald",
+        "ay_nimi": "Hellenurme küla",
+        "l_aadress": "Ööbiku",
+        "registr": "2020-05-20Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 25,
+        "siht1": "ULDKASUTATAV_MAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 627,
+        "haritav": null,
+        "rohumaa": 560,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 67,
+        "kinnistu": "20968550",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Munitsipaalomand",
+        "marked": "-",
+        "ads_oid": "CU03843571",
+        "adob_id": 10593003,
+        "kolvik_muudet": "2024-08-18T18:19:50.020Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936893",
+        "listingTitle": "Hellenurme, Elva vald, Tartumaa",
+        "listingPrice": 800,
+        "listingAreaM2": 627,
+        "listingPricePerM2": 1.28,
+        "listingURL": "https://www.kv.ee/elva-vallavalitsus-muub-enampakkumisel627-m-suurus-3936893",
+        "lastSeen": "2026-10-09T17:32:43.625Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.11399",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.31623791,
+              59.09798036
+            ],
+            [
+              27.3160224,
+              59.09700558
+            ],
+            [
+              27.31583126,
+              59.09607333
+            ],
+            [
+              27.31653166,
+              59.09612651
+            ],
+            [
+              27.31660433,
+              59.09613563
+            ],
+            [
+              27.31724998,
+              59.09618983
+            ],
+            [
+              27.31877717,
+              59.09631695
+            ],
+            [
+              27.31968729,
+              59.09639811
+            ],
+            [
+              27.32000094,
+              59.09643695
+            ],
+            [
+              27.32043245,
+              59.09650235
+            ],
+            [
+              27.32079426,
+              59.09654786
+            ],
+            [
+              27.32119469,
+              59.09657352
+            ],
+            [
+              27.32159848,
+              59.09658138
+            ],
+            [
+              27.32212923,
+              59.09657252
+            ],
+            [
+              27.32279596,
+              59.09654985
+            ],
+            [
+              27.3231726,
+              59.09652622
+            ],
+            [
+              27.32341523,
+              59.09649693
+            ],
+            [
+              27.32364555,
+              59.09645052
+            ],
+            [
+              27.32367563,
+              59.09644175
+            ],
+            [
+              27.32424084,
+              59.09621224
+            ],
+            [
+              27.32434641,
+              59.09616937
+            ],
+            [
+              27.32445944,
+              59.09705552
+            ],
+            [
+              27.32463215,
+              59.0982923
+            ],
+            [
+              27.32462281,
+              59.09834773
+            ],
+            [
+              27.32460321,
+              59.09835461
+            ],
+            [
+              27.32447691,
+              59.09836556
+            ],
+            [
+              27.32438442,
+              59.09837035
+            ],
+            [
+              27.32429758,
+              59.09838111
+            ],
+            [
+              27.32420914,
+              59.09838975
+            ],
+            [
+              27.32415326,
+              59.0983936
+            ],
+            [
+              27.32112383,
+              59.09855499
+            ],
+            [
+              27.32043112,
+              59.09859674
+            ],
+            [
+              27.31973011,
+              59.09863222
+            ],
+            [
+              27.31922853,
+              59.09865579
+            ],
+            [
+              27.31815791,
+              59.09868837
+            ],
+            [
+              27.31815837,
+              59.0986551
+            ],
+            [
+              27.31816572,
+              59.09816316
+            ],
+            [
+              27.31631822,
+              59.09822144
+            ],
+            [
+              27.31623791,
+              59.09798036
+            ]
+          ],
+          [
+            [
+              27.31817742,
+              59.09715915
+            ],
+            [
+              27.31867868,
+              59.09719779
+            ],
+            [
+              27.31871837,
+              59.09698205
+            ],
+            [
+              27.31828396,
+              59.09695375
+            ],
+            [
+              27.31817742,
+              59.09715915
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "13001:001:1307",
+        "hkood": "4418",
+        "mk_nimi": "Ida-Viru maakond",
+        "ov_nimi": "Alutaguse vald",
+        "ay_nimi": "Lipniku küla",
+        "l_aadress": "Alajaama",
+        "registr": "2023-05-31Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 45428,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 111007,
+        "haritav": 98173,
+        "rohumaa": 3284,
+        "mets": 3024,
+        "ouemaa": null,
+        "muumaa": 6526,
+        "kinnistu": "4541608",
+        "muutpohjus": "KÜ andmete muutmine",
+        "oiguslik_alus": "Katastripidaja otsus maakatastriseaduse § 19³ lg 2 alusel andmete muutmiseks",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04029954",
+        "adob_id": 10692004,
+        "kolvik_muudet": "2024-01-29T14:36:22.008Z",
+        "geom_muudet": "2024-03-19Z",
+        "listingId": "3936892",
+        "listingTitle": "Alajaama, Lipniku, Alutaguse vald, Ida-Virumaa",
+        "listingPrice": 52000,
+        "listingAreaM2": 111000,
+        "listingPricePerM2": 0.47,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitlebida-virumaa-alajaama-1110-ha-3936892",
+        "lastSeen": "2026-10-09T17:32:49.975Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.85764",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.31359437,
+              59.1334068
+            ],
+            [
+              27.31345395,
+              59.13341055
+            ],
+            [
+              27.31345881,
+              59.13334832
+            ],
+            [
+              27.31345525,
+              59.13332405
+            ],
+            [
+              27.31341546,
+              59.13321037
+            ],
+            [
+              27.31336622,
+              59.13310934
+            ],
+            [
+              27.3132953,
+              59.13298845
+            ],
+            [
+              27.31321623,
+              59.13286454
+            ],
+            [
+              27.31310996,
+              59.13269422
+            ],
+            [
+              27.31306456,
+              59.13259677
+            ],
+            [
+              27.31302842,
+              59.13251005
+            ],
+            [
+              27.31295051,
+              59.13233101
+            ],
+            [
+              27.31290273,
+              59.13223605
+            ],
+            [
+              27.31285424,
+              59.13213545
+            ],
+            [
+              27.31278601,
+              59.13205521
+            ],
+            [
+              27.31269941,
+              59.13195845
+            ],
+            [
+              27.31263578,
+              59.13186956
+            ],
+            [
+              27.31258377,
+              59.13178882
+            ],
+            [
+              27.31254229,
+              59.13170844
+            ],
+            [
+              27.31265446,
+              59.13167826
+            ],
+            [
+              27.32047201,
+              59.12957501
+            ],
+            [
+              27.32148991,
+              59.12938829
+            ],
+            [
+              27.32134878,
+              59.12903991
+            ],
+            [
+              27.32111538,
+              59.12845083
+            ],
+            [
+              27.32117676,
+              59.12842914
+            ],
+            [
+              27.32146884,
+              59.12857126
+            ],
+            [
+              27.32343067,
+              59.12956354
+            ],
+            [
+              27.32409637,
+              59.1298679
+            ],
+            [
+              27.32409815,
+              59.12988637
+            ],
+            [
+              27.32412576,
+              59.12988612
+            ],
+            [
+              27.32784846,
+              59.13314593
+            ],
+            [
+              27.32648949,
+              59.13372413
+            ],
+            [
+              27.32417159,
+              59.13466515
+            ],
+            [
+              27.3241364,
+              59.13467926
+            ],
+            [
+              27.32411933,
+              59.1346655
+            ],
+            [
+              27.32403038,
+              59.13461006
+            ],
+            [
+              27.32114804,
+              59.13321905
+            ],
+            [
+              27.32110251,
+              59.1332203
+            ],
+            [
+              27.31359437,
+              59.1334068
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "22401:001:0312",
+        "hkood": "8104",
+        "mk_nimi": "Ida-Viru maakond",
+        "ov_nimi": "Alutaguse vald",
+        "ay_nimi": "Tammetaguse küla",
+        "l_aadress": "Metsaveere",
+        "registr": "2011-04-01Z",
+        "muudet": "2025-12-12Z",
+        "maks_hind": 103898,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 293550,
+        "haritav": 201458,
+        "rohumaa": 915,
+        "mets": 82210,
+        "ouemaa": null,
+        "muumaa": 8967,
+        "kinnistu": "4841508",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU02183482",
+        "adob_id": 9102130,
+        "kolvik_muudet": "2024-04-15T11:34:44.035Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936891",
+        "listingTitle": "Kelluka, Tammetaguse, Alutaguse vald, Ida-Virumaa",
+        "listingPrice": 149000,
+        "listingAreaM2": 379700,
+        "listingPricePerM2": 0.39,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitlebida-virumaa-metsaveere-2936-h-3936891",
+        "lastSeen": "2026-10-09T17:32:53.751Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.10635",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.31226177,
+              59.13117717
+            ],
+            [
+              27.31219253,
+              59.13100079
+            ],
+            [
+              27.31213052,
+              59.13090152
+            ],
+            [
+              27.31206038,
+              59.1307958
+            ],
+            [
+              27.31216767,
+              59.13077321
+            ],
+            [
+              27.31225617,
+              59.13074606
+            ],
+            [
+              27.3124221,
+              59.13068217
+            ],
+            [
+              27.31299628,
+              59.13043029
+            ],
+            [
+              27.31354002,
+              59.13023842
+            ],
+            [
+              27.31423916,
+              59.12996782
+            ],
+            [
+              27.31551807,
+              59.12946567
+            ],
+            [
+              27.31828331,
+              59.12842847
+            ],
+            [
+              27.32080184,
+              59.12746562
+            ],
+            [
+              27.32079336,
+              59.1274919
+            ],
+            [
+              27.32080522,
+              59.12753151
+            ],
+            [
+              27.32088912,
+              59.1276437
+            ],
+            [
+              27.32109174,
+              59.12785552
+            ],
+            [
+              27.32115795,
+              59.12795108
+            ],
+            [
+              27.32118564,
+              59.12802058
+            ],
+            [
+              27.32136954,
+              59.12800376
+            ],
+            [
+              27.32148584,
+              59.12799306
+            ],
+            [
+              27.3211696,
+              59.12840379
+            ],
+            [
+              27.32117676,
+              59.12842914
+            ],
+            [
+              27.32111538,
+              59.12845083
+            ],
+            [
+              27.32134878,
+              59.12903991
+            ],
+            [
+              27.32022698,
+              59.12906839
+            ],
+            [
+              27.32047201,
+              59.12957501
+            ],
+            [
+              27.31265446,
+              59.13167826
+            ],
+            [
+              27.31254229,
+              59.13170844
+            ],
+            [
+              27.31226177,
+              59.13117717
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "13001:001:0391",
+        "hkood": "8578",
+        "mk_nimi": "Ida-Viru maakond",
+        "ov_nimi": "Alutaguse vald",
+        "ay_nimi": "Tärivere küla",
+        "l_aadress": "Kelluka",
+        "registr": "2020-04-07Z",
+        "muudet": "2025-12-12Z",
+        "maks_hind": 34333,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 86054,
+        "haritav": 83014,
+        "rohumaa": 872,
+        "mets": 305,
+        "ouemaa": null,
+        "muumaa": 1863,
+        "kinnistu": "17630850",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU03840020",
+        "adob_id": 10044972,
+        "kolvik_muudet": "2024-04-15T11:34:44.266Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936891",
+        "listingTitle": "Kelluka, Tammetaguse, Alutaguse vald, Ida-Virumaa",
+        "listingPrice": 149000,
+        "listingAreaM2": 379700,
+        "listingPricePerM2": 0.39,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitlebida-virumaa-metsaveere-2936-h-3936891",
+        "lastSeen": "2026-10-09T17:32:53.751Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.39018",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.1963479,
+              58.18135698
+            ],
+            [
+              26.19621557,
+              58.18133744
+            ],
+            [
+              26.19613843,
+              58.18131937
+            ],
+            [
+              26.19610948,
+              58.18128035
+            ],
+            [
+              26.1960682,
+              58.18118512
+            ],
+            [
+              26.19605488,
+              58.18112391
+            ],
+            [
+              26.19604577,
+              58.18107025
+            ],
+            [
+              26.19604419,
+              58.18103111
+            ],
+            [
+              26.19604916,
+              58.18099321
+            ],
+            [
+              26.19605946,
+              58.18093715
+            ],
+            [
+              26.19607561,
+              58.18087947
+            ],
+            [
+              26.19609593,
+              58.18081507
+            ],
+            [
+              26.19614086,
+              58.18072221
+            ],
+            [
+              26.19619623,
+              58.18066349
+            ],
+            [
+              26.19715796,
+              58.18042254
+            ],
+            [
+              26.19719583,
+              58.18046006
+            ],
+            [
+              26.19726822,
+              58.18060721
+            ],
+            [
+              26.1968276,
+              58.18067871
+            ],
+            [
+              26.1969918,
+              58.18092138
+            ],
+            [
+              26.19651455,
+              58.18136488
+            ],
+            [
+              26.1963479,
+              58.18135698
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "17101:001:1984",
+        "hkood": "8941",
+        "mk_nimi": "Tartu maakond",
+        "ov_nimi": "Elva vald",
+        "ay_nimi": "Valguta küla",
+        "l_aadress": "Siuksu tee 1a",
+        "registr": "2023-04-06Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 163,
+        "siht1": "ULDKASUTATAV_MAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 4084,
+        "haritav": null,
+        "rohumaa": 4058,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 26,
+        "kinnistu": "4716304",
+        "muutpohjus": "KÜ jagamine",
+        "oiguslik_alus": "Omaniku avaldus 05.04.2023\r\nElva Vallavalitsuse korraldus nr 5 03.01.2023",
+        "omvorm": "Munitsipaalomand",
+        "marked": "-",
+        "ads_oid": "CU04023687",
+        "adob_id": 10674715,
+        "kolvik_muudet": "2024-01-29T15:09:51.679Z",
+        "geom_muudet": "2023-04-06Z",
+        "listingId": "3936890",
+        "listingTitle": "Siuksu tee 1a, Valguta, Elva vald, Tartumaa",
+        "listingPrice": 3000,
+        "listingAreaM2": 4084,
+        "listingPricePerM2": 0.73,
+        "listingURL": "https://www.kv.ee/elva-vallavalitsus-muub-enampakkumisel-4084-m-suur-3936890",
+        "lastSeen": "2026-10-09T17:32:59.550Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.532364",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.2081005,
+              58.00628823
+            ],
+            [
+              26.20714065,
+              58.00581406
+            ],
+            [
+              26.21066027,
+              58.00576446
+            ],
+            [
+              26.21074362,
+              58.00625907
+            ],
+            [
+              26.2081005,
+              58.00628823
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "72401:001:0028",
+        "hkood": "5229",
+        "mk_nimi": "Valga maakond",
+        "ov_nimi": "Otepää vald",
+        "ay_nimi": "Mägiste küla",
+        "l_aadress": "Allika",
+        "registr": "2013-08-21Z",
+        "muudet": "2025-12-16Z",
+        "maks_hind": 3735,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 9964,
+        "haritav": 8798,
+        "rohumaa": 668,
+        "mets": 498,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "2476040",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU03267173",
+        "adob_id": 8513228,
+        "kolvik_muudet": "2024-01-29T16:09:34.986Z",
+        "geom_muudet": "2021-12-16Z",
+        "listingId": "3936885",
+        "listingTitle": "Mägiste, Otepää vald, Valgamaa",
+        "listingPrice": 17100,
+        "listingAreaM2": 9964,
+        "listingPricePerM2": 1.72,
+        "listingURL": "https://www.kv.ee/uut-omanikku-ootab-ca-1-ha-suurune-krunt-quotallik-3936885",
+        "lastSeen": "2026-10-09T17:33:03.725Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.130094",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.05027575,
+              59.06194078
+            ],
+            [
+              25.0503997,
+              59.06133319
+            ],
+            [
+              25.05030728,
+              59.06122332
+            ],
+            [
+              25.04986832,
+              59.06070126
+            ],
+            [
+              25.04952439,
+              59.06036303
+            ],
+            [
+              25.04877854,
+              59.06013587
+            ],
+            [
+              25.04800796,
+              59.06013893
+            ],
+            [
+              25.0475525,
+              59.06007688
+            ],
+            [
+              25.05163747,
+              59.05841436
+            ],
+            [
+              25.06597823,
+              59.05606659
+            ],
+            [
+              25.06616977,
+              59.0560547
+            ],
+            [
+              25.06752729,
+              59.05606818
+            ],
+            [
+              25.06752714,
+              59.05608587
+            ],
+            [
+              25.06747087,
+              59.05949978
+            ],
+            [
+              25.06567502,
+              59.05949913
+            ],
+            [
+              25.06390536,
+              59.05949403
+            ],
+            [
+              25.06204365,
+              59.05948867
+            ],
+            [
+              25.06065497,
+              59.05950914
+            ],
+            [
+              25.06013884,
+              59.05959541
+            ],
+            [
+              25.05687798,
+              59.06014033
+            ],
+            [
+              25.05352185,
+              59.06070282
+            ],
+            [
+              25.05063178,
+              59.06194832
+            ],
+            [
+              25.05027575,
+              59.06194078
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "27701:001:0972",
+        "hkood": "5588",
+        "mk_nimi": "Rapla maakond",
+        "ov_nimi": "Rapla vald",
+        "ay_nimi": "Oblu küla",
+        "l_aadress": "Pikamäe",
+        "registr": "2002-04-12Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 82309,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 328084,
+        "haritav": 313876,
+        "rohumaa": null,
+        "mets": 1548,
+        "ouemaa": null,
+        "muumaa": 12660,
+        "kinnistu": "2326937",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00118928",
+        "adob_id": 8985417,
+        "kolvik_muudet": "2024-12-08T10:08:28.568Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936875",
+        "listingTitle": "Pikamäe, Oblu, Rapla vald, Raplamaa",
+        "listingPrice": 114900,
+        "listingAreaM2": 328084,
+        "listingPricePerM2": 0.35,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936875",
+        "lastSeen": "2026-10-09T17:33:09.055Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.130155",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.14990462,
+              59.01962604
+            ],
+            [
+              25.1554485,
+              59.01862129
+            ],
+            [
+              25.15588451,
+              59.01847609
+            ],
+            [
+              25.15596332,
+              59.01845348
+            ],
+            [
+              25.15760513,
+              59.01785741
+            ],
+            [
+              25.16000459,
+              59.01675732
+            ],
+            [
+              25.16132687,
+              59.01752802
+            ],
+            [
+              25.16170018,
+              59.01745088
+            ],
+            [
+              25.16176015,
+              59.01744262
+            ],
+            [
+              25.16213538,
+              59.01880612
+            ],
+            [
+              25.16217518,
+              59.0190164
+            ],
+            [
+              25.16231578,
+              59.01955801
+            ],
+            [
+              25.16228312,
+              59.0195653
+            ],
+            [
+              25.16146159,
+              59.02056516
+            ],
+            [
+              25.16198493,
+              59.02083227
+            ],
+            [
+              25.16198458,
+              59.02084251
+            ],
+            [
+              25.16182123,
+              59.020842
+            ],
+            [
+              25.16157652,
+              59.02086618
+            ],
+            [
+              25.16115241,
+              59.02094063
+            ],
+            [
+              25.15396119,
+              59.02237847
+            ],
+            [
+              25.15205424,
+              59.02274438
+            ],
+            [
+              25.14990462,
+              59.01962604
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "27701:001:1066",
+        "hkood": "3541",
+        "mk_nimi": "Rapla maakond",
+        "ov_nimi": "Rapla vald",
+        "ay_nimi": "Kuimetsa küla",
+        "l_aadress": "Uudismaa",
+        "registr": "2002-04-09Z",
+        "muudet": "2025-12-15Z",
+        "maks_hind": 92690,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 259686,
+        "haritav": 237017,
+        "rohumaa": null,
+        "mets": 15467,
+        "ouemaa": null,
+        "muumaa": 7202,
+        "kinnistu": "2327437",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00119000",
+        "adob_id": 8907939,
+        "kolvik_muudet": "2025-03-16T13:39:31.628Z",
+        "geom_muudet": "2020-04-29Z",
+        "listingId": "3936872",
+        "listingTitle": "Uudismaa, Kuimetsa, Rapla vald, Raplamaa",
+        "listingPrice": 101900,
+        "listingAreaM2": 259686,
+        "listingPricePerM2": 0.39,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936872",
+        "lastSeen": "2026-10-09T17:33:13.683Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.130084",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.12348701,
+              59.02652791
+            ],
+            [
+              25.12613586,
+              59.02516826
+            ],
+            [
+              25.12614423,
+              59.02515256
+            ],
+            [
+              25.12528545,
+              59.02469059
+            ],
+            [
+              25.12468352,
+              59.0243775
+            ],
+            [
+              25.12598095,
+              59.02373229
+            ],
+            [
+              25.12776067,
+              59.02282456
+            ],
+            [
+              25.12778588,
+              59.02283916
+            ],
+            [
+              25.13189816,
+              59.02521378
+            ],
+            [
+              25.13190597,
+              59.02521829
+            ],
+            [
+              25.13006181,
+              59.02609431
+            ],
+            [
+              25.12772845,
+              59.02719784
+            ],
+            [
+              25.1264165,
+              59.02782272
+            ],
+            [
+              25.12566556,
+              59.02818783
+            ],
+            [
+              25.12549203,
+              59.02828217
+            ],
+            [
+              25.12549203,
+              59.02828217
+            ],
+            [
+              25.12364568,
+              59.0271502
+            ],
+            [
+              25.123024,
+              59.0267553
+            ],
+            [
+              25.12348701,
+              59.02652791
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "27701:001:0961",
+        "hkood": "3541",
+        "mk_nimi": "Rapla maakond",
+        "ov_nimi": "Rapla vald",
+        "ay_nimi": "Kuimetsa küla",
+        "l_aadress": "Kaiumeeste",
+        "registr": "2002-02-08Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 40959,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 143183,
+        "haritav": 140928,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 2255,
+        "kinnistu": "2327037",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00118917",
+        "adob_id": 8927376,
+        "kolvik_muudet": "2024-04-15T11:34:45.505Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936868",
+        "listingTitle": "Kaiumeeste, Kuimetsa, Rapla vald, Raplamaa",
+        "listingPrice": 50100,
+        "listingAreaM2": 143183,
+        "listingPricePerM2": 0.35,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936868",
+        "lastSeen": "2026-10-09T17:33:19.958Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.183612",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.86940001,
+              59.16820073
+            ],
+            [
+              24.87117536,
+              59.16790979
+            ],
+            [
+              24.87277242,
+              59.16551802
+            ],
+            [
+              24.87390936,
+              59.16568666
+            ],
+            [
+              24.87688973,
+              59.16608119
+            ],
+            [
+              24.88114011,
+              59.16665967
+            ],
+            [
+              24.88100875,
+              59.16670572
+            ],
+            [
+              24.88084342,
+              59.16676366
+            ],
+            [
+              24.87806638,
+              59.16773724
+            ],
+            [
+              24.8756665,
+              59.1685785
+            ],
+            [
+              24.87503777,
+              59.16912516
+            ],
+            [
+              24.87453232,
+              59.16932148
+            ],
+            [
+              24.87353351,
+              59.16950888
+            ],
+            [
+              24.87310312,
+              59.16958969
+            ],
+            [
+              24.87170164,
+              59.16950352
+            ],
+            [
+              24.8711107,
+              59.16954257
+            ],
+            [
+              24.87033338,
+              59.16961742
+            ],
+            [
+              24.87031083,
+              59.169583
+            ],
+            [
+              24.86940001,
+              59.16820073
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "31701:003:1255",
+        "hkood": "5854",
+        "mk_nimi": "Rapla maakond",
+        "ov_nimi": "Kohila vald",
+        "ay_nimi": "Pahkla küla",
+        "l_aadress": "Piraaja",
+        "registr": "2002-01-30Z",
+        "muudet": "2025-12-15Z",
+        "maks_hind": 59330,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 154234,
+        "haritav": 142853,
+        "rohumaa": null,
+        "mets": 4009,
+        "ouemaa": null,
+        "muumaa": 7372,
+        "kinnistu": "1893837",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00157677",
+        "adob_id": 9237102,
+        "kolvik_muudet": "2025-05-27T12:40:46.288Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936852",
+        "listingTitle": "Piraaja ja Kreveti, Pahkla, Kohila vald, Raplamaa",
+        "listingPrice": 90400,
+        "listingAreaM2": 258500,
+        "listingPricePerM2": 0.35,
+        "listingURL": "https://www.kv.ee/muuakse-2-kinnistut-registrinumber-1893837-ja-2365-3936852",
+        "lastSeen": "2026-10-09T17:33:23.488Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.183273",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.87688973,
+              59.16608119
+            ],
+            [
+              24.87689182,
+              59.16606726
+            ],
+            [
+              24.8773471,
+              59.16297061
+            ],
+            [
+              24.87735053,
+              59.16294734
+            ],
+            [
+              24.87814856,
+              59.1630533
+            ],
+            [
+              24.88039637,
+              59.16335266
+            ],
+            [
+              24.88240285,
+              59.16362049
+            ],
+            [
+              24.88240559,
+              59.16406209
+            ],
+            [
+              24.88234506,
+              59.16505716
+            ],
+            [
+              24.88219866,
+              59.16624924
+            ],
+            [
+              24.88212194,
+              59.16634645
+            ],
+            [
+              24.88201291,
+              59.16639037
+            ],
+            [
+              24.88114011,
+              59.16665967
+            ],
+            [
+              24.87688973,
+              59.16608119
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "31701:003:0025",
+        "hkood": "5854",
+        "mk_nimi": "Rapla maakond",
+        "ov_nimi": "Kohila vald",
+        "ay_nimi": "Pahkla küla",
+        "l_aadress": "Kreveti",
+        "registr": "2004-03-04Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 30653,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 104319,
+        "haritav": 101847,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 2472,
+        "kinnistu": "2365537",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00157391",
+        "adob_id": 9262120,
+        "kolvik_muudet": "2024-01-29T15:57:56.062Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3936852",
+        "listingTitle": "Piraaja ja Kreveti, Pahkla, Kohila vald, Raplamaa",
+        "listingPrice": 90400,
+        "listingAreaM2": 258500,
+        "listingPricePerM2": 0.35,
+        "listingURL": "https://www.kv.ee/muuakse-2-kinnistut-registrinumber-1893837-ja-2365-3936852",
+        "lastSeen": "2026-10-09T17:33:23.488Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.568035",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.82654476,
+              58.57111675
+            ],
+            [
+              26.82602606,
+              58.57033163
+            ],
+            [
+              26.82690962,
+              58.56908385
+            ],
+            [
+              26.82775276,
+              58.56921965
+            ],
+            [
+              26.82832912,
+              58.56931272
+            ],
+            [
+              26.8282497,
+              58.5694454
+            ],
+            [
+              26.82839337,
+              58.57036386
+            ],
+            [
+              26.82837655,
+              58.57037501
+            ],
+            [
+              26.82654476,
+              58.57111675
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "77302:002:1420",
+        "hkood": "2550",
+        "mk_nimi": "Tartu maakond",
+        "ov_nimi": "Tartu vald",
+        "ay_nimi": "Kaitsemõisa küla",
+        "l_aadress": "Metsatuka",
+        "registr": "1998-11-05Z",
+        "muudet": "2025-12-16Z",
+        "maks_hind": 3836,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 20148,
+        "haritav": 125,
+        "rohumaa": 5854,
+        "mets": 13921,
+        "ouemaa": null,
+        "muumaa": 248,
+        "kinnistu": "696535",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00440341",
+        "adob_id": 9770042,
+        "kolvik_muudet": "2024-03-24T06:37:30.140Z",
+        "geom_muudet": "2024-03-24Z",
+        "listingId": "3936849",
+        "listingTitle": "Metsatuka, Kaitsemõisa, Tartu vald, Tartumaa",
+        "listingPrice": 15000,
+        "listingAreaM2": 20148,
+        "listingPricePerM2": 0.74,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936849",
+        "lastSeen": "2026-10-09T17:33:28.812Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.130098",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.07207593,
+              59.06513107
+            ],
+            [
+              25.0722202,
+              59.06103388
+            ],
+            [
+              25.07229994,
+              59.05951981
+            ],
+            [
+              25.07436518,
+              59.05952263
+            ],
+            [
+              25.0743587,
+              59.06196556
+            ],
+            [
+              25.07774372,
+              59.06199451
+            ],
+            [
+              25.07867385,
+              59.06200243
+            ],
+            [
+              25.07867603,
+              59.06164785
+            ],
+            [
+              25.07868931,
+              59.05953312
+            ],
+            [
+              25.08190276,
+              59.05955683
+            ],
+            [
+              25.08169175,
+              59.06626833
+            ],
+            [
+              25.08131777,
+              59.06631309
+            ],
+            [
+              25.08069418,
+              59.06619284
+            ],
+            [
+              25.07908267,
+              59.06584787
+            ],
+            [
+              25.07664938,
+              59.06508005
+            ],
+            [
+              25.07578681,
+              59.06481998
+            ],
+            [
+              25.07507463,
+              59.06474245
+            ],
+            [
+              25.07440433,
+              59.06477231
+            ],
+            [
+              25.07354276,
+              59.06489129
+            ],
+            [
+              25.0730014,
+              59.06500304
+            ],
+            [
+              25.07290282,
+              59.06502307
+            ],
+            [
+              25.07262543,
+              59.06507931
+            ],
+            [
+              25.07207593,
+              59.06513107
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "27701:001:0987",
+        "hkood": "5588",
+        "mk_nimi": "Rapla maakond",
+        "ov_nimi": "Rapla vald",
+        "ay_nimi": "Oblu küla",
+        "l_aadress": "Veskinätsiku",
+        "registr": "2002-08-29Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 92589,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 291941,
+        "haritav": 279006,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 12935,
+        "kinnistu": "2327137",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00118942",
+        "adob_id": 8985183,
+        "kolvik_muudet": "2024-01-29T16:39:59.926Z",
+        "geom_muudet": "2020-04-29Z",
+        "listingId": "3936829",
+        "listingTitle": "Veskinätsiku, Oblu, Rapla vald, Raplamaa",
+        "listingPrice": 102200,
+        "listingAreaM2": 291941,
+        "listingPricePerM2": 0.35,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936829",
+        "lastSeen": "2026-10-09T17:33:33.594Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.130085",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.13158309,
+              59.02545733
+            ],
+            [
+              25.13380817,
+              59.02439966
+            ],
+            [
+              25.13480641,
+              59.02391292
+            ],
+            [
+              25.13485381,
+              59.02390326
+            ],
+            [
+              25.13489344,
+              59.02390094
+            ],
+            [
+              25.13494957,
+              59.02390782
+            ],
+            [
+              25.13499785,
+              59.02391987
+            ],
+            [
+              25.13899032,
+              59.02619099
+            ],
+            [
+              25.14221085,
+              59.02802279
+            ],
+            [
+              25.14219936,
+              59.02802819
+            ],
+            [
+              25.13869659,
+              59.02966761
+            ],
+            [
+              25.13173954,
+              59.02554989
+            ],
+            [
+              25.1315886,
+              59.02546088
+            ],
+            [
+              25.13158309,
+              59.02545733
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "27701:001:0962",
+        "hkood": "3541",
+        "mk_nimi": "Rapla maakond",
+        "ov_nimi": "Rapla vald",
+        "ay_nimi": "Kuimetsa küla",
+        "l_aadress": "Mägiste uudismaa",
+        "registr": "2002-03-11Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 61870,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 165972,
+        "haritav": 162445,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 3527,
+        "kinnistu": "2327337",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00118918",
+        "adob_id": 8887468,
+        "kolvik_muudet": "2024-01-29T16:15:04.147Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3936816",
+        "listingTitle": "Mägiste uudismaa, Kuimetsa, Rapla vald, Raplamaa",
+        "listingPrice": 58100,
+        "listingAreaM2": 165972,
+        "listingPricePerM2": 0.35,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936816",
+        "lastSeen": "2026-10-09T17:33:39.319Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.406132",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.87066446,
+              58.11418144
+            ],
+            [
+              25.87301922,
+              58.11256825
+            ],
+            [
+              25.87302894,
+              58.11256901
+            ],
+            [
+              25.88414231,
+              58.11357648
+            ],
+            [
+              25.88415082,
+              58.11357698
+            ],
+            [
+              25.88421243,
+              58.11370173
+            ],
+            [
+              25.88428309,
+              58.11392011
+            ],
+            [
+              25.88443469,
+              58.11450582
+            ],
+            [
+              25.88452531,
+              58.11482522
+            ],
+            [
+              25.88475992,
+              58.1154749
+            ],
+            [
+              25.87066446,
+              58.11418144
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "61301:001:0562",
+        "hkood": "6946",
+        "mk_nimi": "Valga maakond",
+        "ov_nimi": "Tõrva vald",
+        "ay_nimi": "Reti küla",
+        "l_aadress": "Nurme",
+        "registr": "1998-07-28Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 75964,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 151928,
+        "haritav": 151928,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "641040",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00324920",
+        "adob_id": 8511443,
+        "kolvik_muudet": "2024-04-15T11:34:51.700Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936812",
+        "listingTitle": "Nurme, Reti, Tõrva vald, Valgamaa",
+        "listingPrice": 87000,
+        "listingAreaM2": 151900,
+        "listingPricePerM2": 0.57,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936812",
+        "lastSeen": "2026-10-09T17:33:43.552Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.119657",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.45574174,
+              58.47016446
+            ],
+            [
+              22.45570043,
+              58.47017205
+            ],
+            [
+              22.4555064,
+              58.46988331
+            ],
+            [
+              22.45547092,
+              58.46984409
+            ],
+            [
+              22.45537745,
+              58.4697985
+            ],
+            [
+              22.45494782,
+              58.46962825
+            ],
+            [
+              22.45485654,
+              58.46962248
+            ],
+            [
+              22.45484535,
+              58.4696236
+            ],
+            [
+              22.45482479,
+              58.4695727
+            ],
+            [
+              22.45487838,
+              58.46956248
+            ],
+            [
+              22.45530233,
+              58.46947573
+            ],
+            [
+              22.4560288,
+              58.46929985
+            ],
+            [
+              22.45684514,
+              58.46905653
+            ],
+            [
+              22.45776817,
+              58.46870573
+            ],
+            [
+              22.45811916,
+              58.46853905
+            ],
+            [
+              22.45846504,
+              58.46834825
+            ],
+            [
+              22.45902876,
+              58.4679897
+            ],
+            [
+              22.45946112,
+              58.46765579
+            ],
+            [
+              22.45976811,
+              58.4673897
+            ],
+            [
+              22.46088852,
+              58.46624072
+            ],
+            [
+              22.46088387,
+              58.46629212
+            ],
+            [
+              22.46074137,
+              58.4678667
+            ],
+            [
+              22.46105637,
+              58.46912788
+            ],
+            [
+              22.46110806,
+              58.46917278
+            ],
+            [
+              22.45574174,
+              58.47016446
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "27001:001:0122",
+        "hkood": "8517",
+        "mk_nimi": "Saare maakond",
+        "ov_nimi": "Saaremaa vald",
+        "ay_nimi": "Tõrise küla",
+        "l_aadress": "Tammiku",
+        "registr": "2004-02-03Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 4526,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 50865,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 40784,
+        "ouemaa": null,
+        "muumaa": 10081,
+        "kinnistu": "2857150",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00109962",
+        "adob_id": 7761863,
+        "kolvik_muudet": "2026-03-29T10:29:41.610Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936793",
+        "listingTitle": "Tammiku, Kaarma-Kungla, Saaremaa vald, Saaremaa",
+        "listingPrice": 38000,
+        "listingAreaM2": 50900,
+        "listingPricePerM2": 0.75,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936793",
+        "lastSeen": "2026-10-09T17:33:49.369Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.75765",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.74900764,
+              57.97744276
+            ],
+            [
+              25.75573576,
+              57.97865698
+            ],
+            [
+              25.76008664,
+              57.97943563
+            ],
+            [
+              25.75963041,
+              57.98017344
+            ],
+            [
+              25.74872935,
+              57.9781072
+            ],
+            [
+              25.74900764,
+              57.97744276
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "20301:002:1570",
+        "hkood": "3866",
+        "mk_nimi": "Valga maakond",
+        "ov_nimi": "Tõrva vald",
+        "ay_nimi": "Kähu küla",
+        "l_aadress": "Ala-Metsa",
+        "registr": "2000-02-10Z",
+        "muudet": "2025-12-17Z",
+        "maks_hind": 6581,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 55551,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 54484,
+        "ouemaa": null,
+        "muumaa": 1067,
+        "kinnistu": "1264940",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00081551",
+        "adob_id": 8514054,
+        "kolvik_muudet": "2024-01-29T15:05:51.103Z",
+        "geom_muudet": "2020-04-29Z",
+        "listingId": "3936781",
+        "listingTitle": "Ala-Metsa, Kähu, Tõrva vald, Valgamaa",
+        "listingPrice": 23000,
+        "listingAreaM2": 55600,
+        "listingPricePerM2": 0.41,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936781",
+        "lastSeen": "2026-10-09T17:33:53.802Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.651862",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.81098985,
+              58.50365278
+            ],
+            [
+              24.8092711,
+              58.50261814
+            ],
+            [
+              24.80833399,
+              58.50203853
+            ],
+            [
+              24.80509428,
+              58.50003462
+            ],
+            [
+              24.80492568,
+              58.49993035
+            ],
+            [
+              24.80490079,
+              58.49991489
+            ],
+            [
+              24.80492177,
+              58.49989455
+            ],
+            [
+              24.80663638,
+              58.49819204
+            ],
+            [
+              24.80860051,
+              58.49624146
+            ],
+            [
+              24.80715846,
+              58.49586993
+            ],
+            [
+              24.80718694,
+              58.49584057
+            ],
+            [
+              24.8112198,
+              58.49146559
+            ],
+            [
+              24.81507317,
+              58.49242613
+            ],
+            [
+              24.81091767,
+              58.49681458
+            ],
+            [
+              24.80915164,
+              58.49957134
+            ],
+            [
+              24.81552539,
+              58.50337007
+            ],
+            [
+              24.81277953,
+              58.50460453
+            ],
+            [
+              24.81276393,
+              58.50473841
+            ],
+            [
+              24.81098985,
+              58.50365278
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "80801:002:0691",
+        "hkood": "8326",
+        "mk_nimi": "Pärnu maakond",
+        "ov_nimi": "Tori vald",
+        "ay_nimi": "Tori alevik",
+        "l_aadress": "Tõia",
+        "registr": "1996-09-26Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 68910,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 341843,
+        "haritav": 132922,
+        "rohumaa": null,
+        "mets": 201468,
+        "ouemaa": null,
+        "muumaa": 7453,
+        "kinnistu": "189506",
+        "muutpohjus": "KÜ ruumikuju muutmine",
+        "oiguslik_alus": "Katastripidaja otsus maakatastriseaduse § 19³ lg 2 alusel andmete muutmiseks",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00507828",
+        "adob_id": 11006156,
+        "kolvik_muudet": "2026-07-05T10:22:03.325Z",
+        "geom_muudet": "2023-01-04Z",
+        "listingId": "3936776",
+        "listingTitle": "Tõia, Tori, Tori vald, Pärnumaa",
+        "listingPrice": 106500,
+        "listingAreaM2": 135000,
+        "listingPricePerM2": 0.79,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitlebparnumaa-toia-polluosa-kinnis-3936776",
+        "lastSeen": "2026-10-09T17:33:58.845Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.764108",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.3360387,
+              59.14328037
+            ],
+            [
+              26.33986405,
+              59.14557866
+            ],
+            [
+              26.34890347,
+              59.1472006
+            ],
+            [
+              26.34861597,
+              59.14776656
+            ],
+            [
+              26.33962733,
+              59.14603958
+            ],
+            [
+              26.33560684,
+              59.14342679
+            ],
+            [
+              26.3360387,
+              59.14328037
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "92801:001:0580",
+        "hkood": "1559",
+        "mk_nimi": "Lääne-Viru maakond",
+        "ov_nimi": "Väike-Maarja vald",
+        "ay_nimi": "Eipri küla",
+        "l_aadress": "Kasepässiku",
+        "registr": "2020-11-27Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 6091,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 45131,
+        "haritav": 114,
+        "rohumaa": null,
+        "mets": 42321,
+        "ouemaa": null,
+        "muumaa": 2696,
+        "kinnistu": "18601050",
+        "muutpohjus": "KÜ jagamine",
+        "oiguslik_alus": "Omaniku avaldus 25.11.2020\r\nOmaniku avaldus 27.11.2020\r\nVäike-Maarja Vallavalitsuse korraldus nr 687 24.09.2020",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU03888830",
+        "adob_id": 10250593,
+        "kolvik_muudet": "2024-01-29T17:04:44.186Z",
+        "geom_muudet": "2020-11-27Z",
+        "listingId": "3936775",
+        "listingTitle": "Kasepässiku, Eipri, Väike-Maarja vald, Lääne-Virumaa",
+        "listingPrice": 13780,
+        "listingAreaM2": 45100,
+        "listingPricePerM2": 0.31,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitleblaane-virumaa-kasepassiku-451-3936775",
+        "lastSeen": "2026-10-09T17:34:04.310Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.763038",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.2737283,
+              59.12224687
+            ],
+            [
+              26.27197065,
+              59.12256458
+            ],
+            [
+              26.27181705,
+              59.12215595
+            ],
+            [
+              26.27086182,
+              59.11961666
+            ],
+            [
+              26.27073462,
+              59.11927682
+            ],
+            [
+              26.27168156,
+              59.11890939
+            ],
+            [
+              26.2737283,
+              59.12224687
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "92702:004:1662",
+        "hkood": "1521",
+        "mk_nimi": "Lääne-Viru maakond",
+        "ov_nimi": "Väike-Maarja vald",
+        "ay_nimi": "Ebavere küla",
+        "l_aadress": "Võiba",
+        "registr": "1999-11-18Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 4392,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 32170,
+        "haritav": null,
+        "rohumaa": 2661,
+        "mets": 28958,
+        "ouemaa": null,
+        "muumaa": 551,
+        "kinnistu": "1227731",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00590441",
+        "adob_id": 9052272,
+        "kolvik_muudet": "2024-01-29T15:07:55.231Z",
+        "geom_muudet": "2021-12-16Z",
+        "listingId": "3936773",
+        "listingTitle": "Võiba, Ebavere, Väike-Maarja vald, Lääne-Virumaa",
+        "listingPrice": 9495,
+        "listingAreaM2": 32200,
+        "listingPricePerM2": 0.29,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitleblaane-virumaa-voiba-322-ha-ok-3936773",
+        "lastSeen": "2026-10-09T17:34:08.481Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.181891",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.75607237,
+              59.19692229
+            ],
+            [
+              24.75609869,
+              59.19688578
+            ],
+            [
+              24.7563267,
+              59.19694048
+            ],
+            [
+              24.75636814,
+              59.19693916
+            ],
+            [
+              24.75644474,
+              59.19693683
+            ],
+            [
+              24.75650648,
+              59.19693486
+            ],
+            [
+              24.75652362,
+              59.19693431
+            ],
+            [
+              24.75665327,
+              59.19696498
+            ],
+            [
+              24.75665766,
+              59.19696594
+            ],
+            [
+              24.76143395,
+              59.19809273
+            ],
+            [
+              24.76537977,
+              59.19902329
+            ],
+            [
+              24.76880095,
+              59.19983006
+            ],
+            [
+              24.76898077,
+              59.19987281
+            ],
+            [
+              24.76924735,
+              59.19993624
+            ],
+            [
+              24.7693383,
+              59.19997305
+            ],
+            [
+              24.76940508,
+              59.2000241
+            ],
+            [
+              24.7705666,
+              59.20114548
+            ],
+            [
+              24.77079232,
+              59.20137702
+            ],
+            [
+              24.77112562,
+              59.20169197
+            ],
+            [
+              24.77113186,
+              59.20170459
+            ],
+            [
+              24.77113846,
+              59.20171784
+            ],
+            [
+              24.77111465,
+              59.20174141
+            ],
+            [
+              24.76766802,
+              59.20378182
+            ],
+            [
+              24.76681216,
+              59.20428824
+            ],
+            [
+              24.76507654,
+              59.20531502
+            ],
+            [
+              24.76506017,
+              59.20532679
+            ],
+            [
+              24.76200351,
+              59.20448908
+            ],
+            [
+              24.76037599,
+              59.20406269
+            ],
+            [
+              24.76005586,
+              59.20396023
+            ],
+            [
+              24.75991606,
+              59.20389964
+            ],
+            [
+              24.75981747,
+              59.20383404
+            ],
+            [
+              24.75974153,
+              59.20376419
+            ],
+            [
+              24.75833636,
+              59.20212227
+            ],
+            [
+              24.75817389,
+              59.20196135
+            ],
+            [
+              24.75800823,
+              59.20187029
+            ],
+            [
+              24.75773402,
+              59.2017856
+            ],
+            [
+              24.75749419,
+              59.20172801
+            ],
+            [
+              24.75713384,
+              59.20159444
+            ],
+            [
+              24.75632342,
+              59.20138538
+            ],
+            [
+              24.75635076,
+              59.20134323
+            ],
+            [
+              24.75644683,
+              59.20119515
+            ],
+            [
+              24.75495878,
+              59.20087661
+            ],
+            [
+              24.7547618,
+              59.20064944
+            ],
+            [
+              24.75498422,
+              59.20043288
+            ],
+            [
+              24.75513248,
+              59.20026594
+            ],
+            [
+              24.75519329,
+              59.20016593
+            ],
+            [
+              24.75522302,
+              59.20006126
+            ],
+            [
+              24.75523121,
+              59.19992431
+            ],
+            [
+              24.75505806,
+              59.19832658
+            ],
+            [
+              24.75607237,
+              59.19692229
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "31701:001:1697",
+        "hkood": "8721",
+        "mk_nimi": "Rapla maakond",
+        "ov_nimi": "Kohila vald",
+        "ay_nimi": "Urge küla",
+        "l_aadress": "Karukäpa",
+        "registr": "2021-03-19Z",
+        "muudet": "2025-11-19Z",
+        "maks_hind": 178653,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 488970,
+        "haritav": 482102,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 6868,
+        "kinnistu": "2688337",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "Kohila Vallavalitsuse 15.09.2025 korraldus nr 2-2/262; Omaniku avaldus 18.11.2025",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU03919802",
+        "adob_id": 10308083,
+        "kolvik_muudet": "2024-06-04T09:18:04.093Z",
+        "geom_muudet": "2025-11-18Z",
+        "listingId": "3936770",
+        "listingTitle": "Karukäpa, Urge, Kohila vald, Raplamaa",
+        "listingPrice": 207800,
+        "listingAreaM2": 489000,
+        "listingPricePerM2": 0.43,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitlebraplamaa-karukapa-4890-ha-oks-3936770",
+        "lastSeen": "2026-10-09T17:34:14.476Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.448784",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.08427538,
+              59.37495063
+            ],
+            [
+              25.084206,
+              59.37492615
+            ],
+            [
+              25.08358972,
+              59.37470913
+            ],
+            [
+              25.08299358,
+              59.37514488
+            ],
+            [
+              25.08365381,
+              59.3753777
+            ],
+            [
+              25.08372925,
+              59.37540437
+            ],
+            [
+              25.08427538,
+              59.37495063
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "65101:001:1070",
+        "hkood": "3668",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Raasiku vald",
+        "ay_nimi": "Kurgla küla",
+        "l_aadress": "Pähkli tee 6",
+        "registr": "2024-12-12Z",
+        "muudet": "2026-09-08Z",
+        "maks_hind": 13639,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 2908,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 2789,
+        "ouemaa": null,
+        "muumaa": 119,
+        "kinnistu": "25439550",
+        "muutpohjus": null,
+        "oiguslik_alus": "Omaniku avaldus 04.09.2026",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04146074",
+        "adob_id": 10985363,
+        "kolvik_muudet": "2024-12-14T02:08:57.141Z",
+        "geom_muudet": "2026-09-07Z",
+        "listingId": "3936769",
+        "listingTitle": "Pähkli tee 6, Aruküla, Kurgla, Raasiku vald, Harjumaa",
+        "listingPrice": 145900,
+        "listingAreaM2": 2881,
+        "listingPricePerM2": 50.6,
+        "listingURL": "https://www.kv.ee/muuki-on-tulnud-uued-krundid-arukula-alevikus-lood-3936769",
+        "lastSeen": "2026-10-09T17:34:18.907Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.235318",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.79224984,
+              58.85171615
+            ],
+            [
+              22.79234101,
+              58.85256824
+            ],
+            [
+              22.79237968,
+              58.85269727
+            ],
+            [
+              22.79246012,
+              58.85281583
+            ],
+            [
+              22.79261939,
+              58.85293495
+            ],
+            [
+              22.79286814,
+              58.85304762
+            ],
+            [
+              22.7953054,
+              58.8539239
+            ],
+            [
+              22.79532439,
+              58.8539608
+            ],
+            [
+              22.79588923,
+              58.85464372
+            ],
+            [
+              22.79456348,
+              58.85466963
+            ],
+            [
+              22.79373031,
+              58.85510293
+            ],
+            [
+              22.79048066,
+              58.85501137
+            ],
+            [
+              22.78908723,
+              58.85194099
+            ],
+            [
+              22.7890536,
+              58.85186668
+            ],
+            [
+              22.79224632,
+              58.85168281
+            ],
+            [
+              22.79224984,
+              58.85171615
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "36803:001:0219",
+        "hkood": "8911",
+        "mk_nimi": "Hiiu maakond",
+        "ov_nimi": "Hiiumaa vald",
+        "ay_nimi": "Villemi küla",
+        "l_aadress": "Rea",
+        "registr": "2004-06-02Z",
+        "muudet": "2025-12-12Z",
+        "maks_hind": 25345,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 84812,
+        "haritav": 67182,
+        "rohumaa": 4758,
+        "mets": 6745,
+        "ouemaa": 3991,
+        "muumaa": 2136,
+        "kinnistu": "944033",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00198734",
+        "adob_id": 8440556,
+        "kolvik_muudet": "2024-11-10T20:28:06.733Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936764",
+        "listingTitle": "Rea, Käina, Hiiumaa vald, Hiiumaa",
+        "listingPrice": 42000,
+        "listingAreaM2": 107000,
+        "listingPricePerM2": 0.39,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitlebhiiumaa-rea-848-ha-ja-rea-222-3936764",
+        "lastSeen": "2026-10-09T17:34:23.705Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.235320",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.79524452,
+              58.85375048
+            ],
+            [
+              22.79301577,
+              58.85294807
+            ],
+            [
+              22.79279546,
+              58.85285003
+            ],
+            [
+              22.79267235,
+              58.85275729
+            ],
+            [
+              22.79261382,
+              58.85266632
+            ],
+            [
+              22.79258183,
+              58.85255468
+            ],
+            [
+              22.79249168,
+              58.85170297
+            ],
+            [
+              22.79248803,
+              58.85166854
+            ],
+            [
+              22.79430445,
+              58.85156129
+            ],
+            [
+              22.79431728,
+              58.85159113
+            ],
+            [
+              22.79524452,
+              58.85375048
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "36803:001:0221",
+        "hkood": "8911",
+        "mk_nimi": "Hiiu maakond",
+        "ov_nimi": "Hiiumaa vald",
+        "ay_nimi": "Villemi küla",
+        "l_aadress": "Rea",
+        "registr": "2004-06-02Z",
+        "muudet": "2025-12-12Z",
+        "maks_hind": 2265,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 22236,
+        "haritav": null,
+        "rohumaa": 160,
+        "mets": 21256,
+        "ouemaa": null,
+        "muumaa": 820,
+        "kinnistu": "944033",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00198736",
+        "adob_id": 8355995,
+        "kolvik_muudet": "2024-04-15T11:34:48.146Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936764",
+        "listingTitle": "Rea, Käina, Hiiumaa vald, Hiiumaa",
+        "listingPrice": 42000,
+        "listingAreaM2": 107000,
+        "listingPricePerM2": 0.39,
+        "listingURL": "https://www.kv.ee/tehingukeskus-esitlebhiiumaa-rea-848-ha-ja-rea-222-3936764",
+        "lastSeen": "2026-10-09T17:34:23.705Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.59329",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.64094018,
+              58.67986327
+            ],
+            [
+              23.6407632,
+              58.67978835
+            ],
+            [
+              23.63584306,
+              58.67246876
+            ],
+            [
+              23.63509184,
+              58.67131777
+            ],
+            [
+              23.63500239,
+              58.67130082
+            ],
+            [
+              23.6362757,
+              58.66947223
+            ],
+            [
+              23.63637272,
+              58.66949019
+            ],
+            [
+              23.64282513,
+              58.67778359
+            ],
+            [
+              23.64292135,
+              58.67781564
+            ],
+            [
+              23.64094018,
+              58.67986327
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "19501:002:0549",
+        "hkood": "5202",
+        "mk_nimi": "Pärnu maakond",
+        "ov_nimi": "Lääneranna vald",
+        "ay_nimi": "Mäense küla",
+        "l_aadress": null,
+        "registr": "2008-04-02Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 22966,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 169836,
+        "haritav": null,
+        "rohumaa": 12977,
+        "mets": 140710,
+        "ouemaa": null,
+        "muumaa": 16149,
+        "kinnistu": "2874432",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00615568",
+        "adob_id": 8480090,
+        "kolvik_muudet": "2026-02-22T10:07:38.623Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936757",
+        "listingTitle": "Mäense, Mäense, Lääneranna vald, Pärnumaa",
+        "listingPrice": 41000,
+        "listingAreaM2": 169800,
+        "listingPricePerM2": 0.24,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936757",
+        "lastSeen": "2026-10-09T17:34:28.868Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.60051",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.78242416,
+              58.54964021
+            ],
+            [
+              23.78240061,
+              58.54961611
+            ],
+            [
+              23.77964765,
+              58.54695724
+            ],
+            [
+              23.77962729,
+              58.54691806
+            ],
+            [
+              23.77972977,
+              58.54692667
+            ],
+            [
+              23.78442654,
+              58.54553807
+            ],
+            [
+              23.78453924,
+              58.54564394
+            ],
+            [
+              23.78773861,
+              58.5485437
+            ],
+            [
+              23.78242416,
+              58.54964021
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "19502:002:0035",
+        "hkood": "9141",
+        "mk_nimi": "Pärnu maakond",
+        "ov_nimi": "Lääneranna vald",
+        "ay_nimi": "Vatla küla",
+        "l_aadress": "Võsa",
+        "registr": "2001-01-10Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 22041,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 117976,
+        "haritav": 102982,
+        "rohumaa": null,
+        "mets": 13001,
+        "ouemaa": null,
+        "muumaa": 1993,
+        "kinnistu": "1239032",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00068430",
+        "adob_id": 8449760,
+        "kolvik_muudet": "2024-04-15T11:34:44.865Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936745",
+        "listingTitle": "Maa, Vatla, Lääneranna vald, Pärnumaa",
+        "listingPrice": 27000,
+        "listingAreaM2": 118000,
+        "listingPricePerM2": 0.23,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936745",
+        "lastSeen": "2026-10-09T17:34:34.283Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.641477",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.80368098,
+              58.52422091
+            ],
+            [
+              26.80311507,
+              58.52407208
+            ],
+            [
+              26.80281426,
+              58.52399877
+            ],
+            [
+              26.80275188,
+              58.52398783
+            ],
+            [
+              26.80259781,
+              58.52405689
+            ],
+            [
+              26.80238864,
+              58.52407485
+            ],
+            [
+              26.80210886,
+              58.52408636
+            ],
+            [
+              26.80138638,
+              58.52402685
+            ],
+            [
+              26.80124386,
+              58.52401685
+            ],
+            [
+              26.80120976,
+              58.52405668
+            ],
+            [
+              26.80113352,
+              58.52417103
+            ],
+            [
+              26.8007813,
+              58.52457897
+            ],
+            [
+              26.80054018,
+              58.52483801
+            ],
+            [
+              26.80033028,
+              58.52507929
+            ],
+            [
+              26.79963097,
+              58.52588894
+            ],
+            [
+              26.79954848,
+              58.52598124
+            ],
+            [
+              26.80007328,
+              58.52610771
+            ],
+            [
+              26.80073216,
+              58.52625443
+            ],
+            [
+              26.80142018,
+              58.52641975
+            ],
+            [
+              26.80157716,
+              58.52645136
+            ],
+            [
+              26.80189291,
+              58.52641472
+            ],
+            [
+              26.80224781,
+              58.52611329
+            ],
+            [
+              26.80189375,
+              58.5260167
+            ],
+            [
+              26.80183282,
+              58.52600015
+            ],
+            [
+              26.80343317,
+              58.52447112
+            ],
+            [
+              26.80368098,
+              58.52422091
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "79601:001:3601",
+        "hkood": "5409",
+        "mk_nimi": "Tartu maakond",
+        "ov_nimi": "Tartu vald",
+        "ay_nimi": "Nigula küla",
+        "l_aadress": "Reinujõe",
+        "registr": "2026-01-23Z",
+        "muudet": "2026-01-23Z",
+        "maks_hind": 6835,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 34997,
+        "haritav": null,
+        "rohumaa": 2335,
+        "mets": 29672,
+        "ouemaa": null,
+        "muumaa": 2990,
+        "kinnistu": "222704",
+        "muutpohjus": null,
+        "oiguslik_alus": "Tartu Vallavalitsuse 18.12.2025 korraldus nr 1447; Omaniku avaldus 23.01.2026",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04232707",
+        "adob_id": 11201833,
+        "kolvik_muudet": "2026-01-23T23:47:12.347Z",
+        "geom_muudet": "2026-01-23Z",
+        "listingId": "3936739",
+        "listingTitle": "Nigula, Tartu vald, Tartumaa",
+        "listingPrice": 13800,
+        "listingAreaM2": 34997,
+        "listingPricePerM2": 0.39,
+        "listingURL": "https://www.kv.ee/pakkuda-muugiks-metsakinnistu-amme-joe-aares-kinni-3936739",
+        "lastSeen": "2026-10-09T17:34:38.828Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.448812",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.08033423,
+              59.37362737
+            ],
+            [
+              25.07979162,
+              59.37357464
+            ],
+            [
+              25.07962506,
+              59.37384345
+            ],
+            [
+              25.07961051,
+              59.37389519
+            ],
+            [
+              25.08020712,
+              59.37395314
+            ],
+            [
+              25.08033423,
+              59.37362737
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "65101:001:1098",
+        "hkood": "1373",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Raasiku vald",
+        "ay_nimi": "Aruküla alevik",
+        "l_aadress": "Sarapuu tee 18",
+        "registr": "2024-12-12Z",
+        "muudet": "2026-07-30Z",
+        "maks_hind": 61219,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1235,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 1235,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "25441650",
+        "muutpohjus": null,
+        "oiguslik_alus": "Omaniku avaldus 28.07.2026",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04146072",
+        "adob_id": 10985361,
+        "kolvik_muudet": "2024-12-14T02:08:57.375Z",
+        "geom_muudet": "2026-07-29Z",
+        "listingId": "3936738",
+        "listingTitle": "Sarapuu tee 18, Aruküla, Raasiku vald, Harjumaa",
+        "listingPrice": 120900,
+        "listingAreaM2": 1235,
+        "listingPricePerM2": 97.9,
+        "listingURL": "https://www.kv.ee/muuki-on-tulnud-uued-krundid-arukula-alevikus-lood-3936738",
+        "lastSeen": "2026-10-09T17:34:43.729Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.98747",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.07136995,
+              59.48690147
+            ],
+            [
+              25.0718076,
+              59.48625317
+            ],
+            [
+              25.07232856,
+              59.48548165
+            ],
+            [
+              25.07325789,
+              59.48560228
+            ],
+            [
+              25.07263671,
+              59.48651996
+            ],
+            [
+              25.07243169,
+              59.48696582
+            ],
+            [
+              25.07136995,
+              59.48690147
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "24504:004:0922",
+        "hkood": "9838",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Jõelähtme vald",
+        "ay_nimi": "Ülgase küla",
+        "l_aadress": "Väikepihlaka",
+        "registr": "2007-03-27Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 4404,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 8987,
+        "haritav": 8987,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "24877750",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00095805",
+        "adob_id": 3328620,
+        "kolvik_muudet": "2024-01-29T16:21:13.575Z",
+        "geom_muudet": "2018-12-22Z",
+        "listingId": "3936729",
+        "listingTitle": "Ülgase, Jõelähtme vald, Harjumaa",
+        "listingPrice": 44900,
+        "listingAreaM2": 8987,
+        "listingPricePerM2": 5,
+        "listingURL": "https://www.kv.ee/joelahtme-vallas-ulgase-kulas-ootab-omanikku-0-9-h-3936729",
+        "lastSeen": "2026-10-09T17:34:48.835Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.98136",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.02883446,
+              59.48172481
+            ],
+            [
+              25.02882956,
+              59.48156829
+            ],
+            [
+              25.02904079,
+              59.48159133
+            ],
+            [
+              25.03056542,
+              59.48176345
+            ],
+            [
+              25.0347362,
+              59.48224024
+            ],
+            [
+              25.03573795,
+              59.48235303
+            ],
+            [
+              25.03868831,
+              59.48266664
+            ],
+            [
+              25.0398634,
+              59.48279123
+            ],
+            [
+              25.03987443,
+              59.48282319
+            ],
+            [
+              25.04082607,
+              59.4828076
+            ],
+            [
+              25.04080381,
+              59.48275499
+            ],
+            [
+              25.04179258,
+              59.48271316
+            ],
+            [
+              25.04195451,
+              59.4827047
+            ],
+            [
+              25.04278779,
+              59.48266229
+            ],
+            [
+              25.04344873,
+              59.4826287
+            ],
+            [
+              25.04407725,
+              59.48259679
+            ],
+            [
+              25.04423989,
+              59.4825885
+            ],
+            [
+              25.04436677,
+              59.48258238
+            ],
+            [
+              25.0448892,
+              59.48255544
+            ],
+            [
+              25.04495898,
+              59.48255192
+            ],
+            [
+              25.04558088,
+              59.48251701
+            ],
+            [
+              25.0460148,
+              59.48249283
+            ],
+            [
+              25.04617706,
+              59.48248355
+            ],
+            [
+              25.04690589,
+              59.48244267
+            ],
+            [
+              25.04707476,
+              59.48243612
+            ],
+            [
+              25.04750538,
+              59.4824195
+            ],
+            [
+              25.04766826,
+              59.48241327
+            ],
+            [
+              25.04813167,
+              59.48239531
+            ],
+            [
+              25.04845336,
+              59.48238297
+            ],
+            [
+              25.04857491,
+              59.48239323
+            ],
+            [
+              25.0487377,
+              59.48240692
+            ],
+            [
+              25.04887553,
+              59.48241848
+            ],
+            [
+              25.04908962,
+              59.48243653
+            ],
+            [
+              25.0495493,
+              59.48247515
+            ],
+            [
+              25.04986637,
+              59.48250181
+            ],
+            [
+              25.05090265,
+              59.48268521
+            ],
+            [
+              25.05132548,
+              59.48279935
+            ],
+            [
+              25.05135836,
+              59.48284676
+            ],
+            [
+              25.05283014,
+              59.48319348
+            ],
+            [
+              25.05375353,
+              59.48341179
+            ],
+            [
+              25.05518461,
+              59.48375341
+            ],
+            [
+              25.05557534,
+              59.48383871
+            ],
+            [
+              25.05603255,
+              59.48394493
+            ],
+            [
+              25.05774168,
+              59.48435603
+            ],
+            [
+              25.06170555,
+              59.48549974
+            ],
+            [
+              25.06397615,
+              59.48621272
+            ],
+            [
+              25.06485578,
+              59.48641506
+            ],
+            [
+              25.06544438,
+              59.48650466
+            ],
+            [
+              25.06610052,
+              59.48656381
+            ],
+            [
+              25.06798308,
+              59.48668817
+            ],
+            [
+              25.06913468,
+              59.48674787
+            ],
+            [
+              25.0705386,
+              59.48684439
+            ],
+            [
+              25.07136995,
+              59.48690147
+            ],
+            [
+              25.07243169,
+              59.48696582
+            ],
+            [
+              25.07263973,
+              59.48698083
+            ],
+            [
+              25.07385956,
+              59.48712719
+            ],
+            [
+              25.07448869,
+              59.48721929
+            ],
+            [
+              25.07500482,
+              59.48730414
+            ],
+            [
+              25.07520317,
+              59.4873422
+            ],
+            [
+              25.07531724,
+              59.48736048
+            ],
+            [
+              25.07564469,
+              59.48741194
+            ],
+            [
+              25.07599069,
+              59.48746379
+            ],
+            [
+              25.07645975,
+              59.48752801
+            ],
+            [
+              25.07670902,
+              59.48756305
+            ],
+            [
+              25.07670511,
+              59.48760133
+            ],
+            [
+              25.07697752,
+              59.48762586
+            ],
+            [
+              25.07707063,
+              59.48763416
+            ],
+            [
+              25.0771602,
+              59.48764223
+            ],
+            [
+              25.07724339,
+              59.48764972
+            ],
+            [
+              25.07731544,
+              59.48765631
+            ],
+            [
+              25.07734294,
+              59.48765519
+            ],
+            [
+              25.0774242,
+              59.48765183
+            ],
+            [
+              25.07751886,
+              59.48764792
+            ],
+            [
+              25.07760999,
+              59.48764412
+            ],
+            [
+              25.0777036,
+              59.4876403
+            ],
+            [
+              25.07770558,
+              59.48760797
+            ],
+            [
+              25.07842929,
+              59.48757557
+            ],
+            [
+              25.0781444,
+              59.48773733
+            ],
+            [
+              25.07785476,
+              59.48773207
+            ],
+            [
+              25.07728229,
+              59.48775237
+            ],
+            [
+              25.07680065,
+              59.48771492
+            ],
+            [
+              25.07625992,
+              59.48763917
+            ],
+            [
+              25.0758543,
+              59.48758314
+            ],
+            [
+              25.07517662,
+              59.48747438
+            ],
+            [
+              25.07455331,
+              59.48738251
+            ],
+            [
+              25.07285391,
+              59.4871405
+            ],
+            [
+              25.07126836,
+              59.48704449
+            ],
+            [
+              25.06871933,
+              59.48686489
+            ],
+            [
+              25.06709871,
+              59.48676948
+            ],
+            [
+              25.06601724,
+              59.48668343
+            ],
+            [
+              25.06550607,
+              59.48665444
+            ],
+            [
+              25.06483914,
+              59.48656053
+            ],
+            [
+              25.06438746,
+              59.48647486
+            ],
+            [
+              25.06388542,
+              59.48633662
+            ],
+            [
+              25.06146651,
+              59.48565643
+            ],
+            [
+              25.06030119,
+              59.48528401
+            ],
+            [
+              25.05961807,
+              59.48507638
+            ],
+            [
+              25.05877182,
+              59.48480453
+            ],
+            [
+              25.05773119,
+              59.48450146
+            ],
+            [
+              25.05633713,
+              59.48416028
+            ],
+            [
+              25.05520086,
+              59.48389073
+            ],
+            [
+              25.05308998,
+              59.483424
+            ],
+            [
+              25.0512226,
+              59.48292559
+            ],
+            [
+              25.05073986,
+              59.48281435
+            ],
+            [
+              25.04978938,
+              59.48264964
+            ],
+            [
+              25.04856613,
+              59.48254968
+            ],
+            [
+              25.04823375,
+              59.48255869
+            ],
+            [
+              25.04787475,
+              59.48256891
+            ],
+            [
+              25.04695663,
+              59.48261229
+            ],
+            [
+              25.04683451,
+              59.48261811
+            ],
+            [
+              25.04676369,
+              59.48262217
+            ],
+            [
+              25.0449673,
+              59.48271991
+            ],
+            [
+              25.04258577,
+              59.48283733
+            ],
+            [
+              25.04109607,
+              59.4829114
+            ],
+            [
+              25.03994145,
+              59.48294924
+            ],
+            [
+              25.03885894,
+              59.48284556
+            ],
+            [
+              25.0385905,
+              59.48281607
+            ],
+            [
+              25.03571318,
+              59.48250224
+            ],
+            [
+              25.03566679,
+              59.48249713
+            ],
+            [
+              25.03566484,
+              59.48250855
+            ],
+            [
+              25.03558249,
+              59.48249905
+            ],
+            [
+              25.029937,
+              59.48185131
+            ],
+            [
+              25.02894071,
+              59.481737
+            ],
+            [
+              25.02883446,
+              59.48172481
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "24504:004:0102",
+        "hkood": "9838",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Jõelähtme vald",
+        "ay_nimi": "Ülgase küla",
+        "l_aadress": "11101 Kallavere-Ülgase tee",
+        "registr": "2001-11-12Z",
+        "muudet": "2026-06-11Z",
+        "maks_hind": 48521,
+        "siht1": "TRANSPORDIMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 48521,
+        "haritav": 4261,
+        "rohumaa": 8961,
+        "mets": 4878,
+        "ouemaa": 3775,
+        "muumaa": 26646,
+        "kinnistu": "5768650",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "Jõelähtme Vallavalitsuse 12.02.2026 korraldus nr 108; Notariaalne 10.06.2026 leping nr 1794",
+        "omvorm": "Riigiomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00095005",
+        "adob_id": 10562263,
+        "kolvik_muudet": "2026-06-11T23:47:33.271Z",
+        "geom_muudet": "2026-06-10Z",
+        "listingId": "3936729",
+        "listingTitle": "Ülgase, Jõelähtme vald, Harjumaa",
+        "listingPrice": 44900,
+        "listingAreaM2": 8987,
+        "listingPricePerM2": 5,
+        "listingURL": "https://www.kv.ee/joelahtme-vallas-ulgase-kulas-ootab-omanikku-0-9-h-3936729",
+        "lastSeen": "2026-10-09T17:34:48.835Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.60350",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.77315359,
+              58.54096366
+            ],
+            [
+              23.77786923,
+              58.53965659
+            ],
+            [
+              23.77790056,
+              58.53964443
+            ],
+            [
+              23.77823307,
+              58.53993231
+            ],
+            [
+              23.78262076,
+              58.54386174
+            ],
+            [
+              23.78264296,
+              58.54388099
+            ],
+            [
+              23.77788981,
+              58.54538201
+            ],
+            [
+              23.77783151,
+              58.54534025
+            ],
+            [
+              23.77786506,
+              58.54532999
+            ],
+            [
+              23.77358599,
+              58.54144046
+            ],
+            [
+              23.77347474,
+              58.54138298
+            ],
+            [
+              23.77315359,
+              58.54096366
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "19502:002:0620",
+        "hkood": "9141",
+        "mk_nimi": "Pärnu maakond",
+        "ov_nimi": "Lääneranna vald",
+        "ay_nimi": "Vatla küla",
+        "l_aadress": "Kaera",
+        "registr": "1997-11-04Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 36341,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 177561,
+        "haritav": 172411,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 5150,
+        "kinnistu": "351632",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00068693",
+        "adob_id": 8387947,
+        "kolvik_muudet": "2026-08-23T10:31:27.159Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936727",
+        "listingTitle": "Kaera, Vatla, Lääneranna vald, Pärnumaa",
+        "listingPrice": 49000,
+        "listingAreaM2": 177600,
+        "listingPricePerM2": 0.28,
+        "listingURL": "https://www.kv.ee/as-timber-korraldab-kirjaliku-enampakkumise-kinnis-3936727",
+        "lastSeen": "2026-10-09T17:34:53.562Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.448798",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.08031114,
+              59.37613968
+            ],
+            [
+              25.07955895,
+              59.37593057
+            ],
+            [
+              25.07931738,
+              59.37615314
+            ],
+            [
+              25.08017993,
+              59.37639707
+            ],
+            [
+              25.08031114,
+              59.37613968
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "65101:001:1084",
+        "hkood": "1373",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Raasiku vald",
+        "ay_nimi": "Aruküla alevik",
+        "l_aadress": "Sarapuu tee 7",
+        "registr": "2024-12-12Z",
+        "muudet": "2026-07-30Z",
+        "maks_hind": 43804,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1494,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 956,
+        "ouemaa": null,
+        "muumaa": 538,
+        "kinnistu": "25441950",
+        "muutpohjus": null,
+        "oiguslik_alus": "Omaniku avaldus 28.07.2026",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04146099",
+        "adob_id": 10985388,
+        "kolvik_muudet": "2024-12-14T02:08:57.651Z",
+        "geom_muudet": "2026-07-29Z",
+        "listingId": "3936702",
+        "listingTitle": "Sarapuu tee 7, Sisaldab käibemaksu, Aruküla, Raasiku vald, Harjumaa",
+        "listingPrice": 123900,
+        "listingAreaM2": 1494,
+        "listingPricePerM2": 82.9,
+        "listingURL": "https://www.kv.ee/muuki-on-tulnud-uued-krundid-arukula-alevikus-lood-3936702",
+        "lastSeen": "2026-10-09T17:34:58.865Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.176010",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.88799591,
+              59.27005049
+            ],
+            [
+              24.88790976,
+              59.27035425
+            ],
+            [
+              24.8876654,
+              59.27121389
+            ],
+            [
+              24.89129932,
+              59.27110223
+            ],
+            [
+              24.89147073,
+              59.27051025
+            ],
+            [
+              24.88799591,
+              59.27005049
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "30501:001:1070",
+        "hkood": "7880",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Kiili vald",
+        "ay_nimi": "Sõgula küla",
+        "l_aadress": "Taga-Kungla",
+        "registr": "2026-10-06Z",
+        "muudet": "2026-10-07Z",
+        "maks_hind": 12056,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 20094,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "84702",
+        "muutpohjus": null,
+        "oiguslik_alus": "Omaniku avaldus 05.10.2026\r\nKiili Vallavalitsuse 30.06.2026 korraldus nr 292",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04278216",
+        "adob_id": 11522735,
+        "kolvik_muudet": null,
+        "geom_muudet": "2026-10-06Z",
+        "listingId": "3936667",
+        "listingTitle": "Kungla, Sõgula, Kiili vald, Harjumaa",
+        "listingPrice": 555000,
+        "listingAreaM2": 60215,
+        "listingPricePerM2": 9.22,
+        "listingURL": "https://www.kv.ee/kiili-vallas-muua-602-ha-elamumaad-krunt-asub-kurn-3936667",
+        "lastSeen": "2026-10-09T17:35:03.958Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.176008",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.8876654,
+              59.27121389
+            ],
+            [
+              24.88741708,
+              59.27208998
+            ],
+            [
+              24.89104548,
+              59.27197873
+            ],
+            [
+              24.89129932,
+              59.27110223
+            ],
+            [
+              24.8876654,
+              59.27121389
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "30501:001:1068",
+        "hkood": "7880",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Kiili vald",
+        "ay_nimi": "Sõgula küla",
+        "l_aadress": "Kungla",
+        "registr": "2026-10-06Z",
+        "muudet": "2026-10-07Z",
+        "maks_hind": 12020,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 20034,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "84702",
+        "muutpohjus": null,
+        "oiguslik_alus": "Omaniku avaldus 05.10.2026\r\nKiili Vallavalitsuse 30.06.2026 korraldus nr 292",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04278218",
+        "adob_id": 11522734,
+        "kolvik_muudet": null,
+        "geom_muudet": "2026-10-06Z",
+        "listingId": "3936667",
+        "listingTitle": "Kungla, Sõgula, Kiili vald, Harjumaa",
+        "listingPrice": 555000,
+        "listingAreaM2": 60215,
+        "listingPricePerM2": 9.22,
+        "listingURL": "https://www.kv.ee/kiili-vallas-muua-602-ha-elamumaad-krunt-asub-kurn-3936667",
+        "lastSeen": "2026-10-09T17:35:03.958Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.176006",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.88867095,
+              59.27222567
+            ],
+            [
+              24.8882807,
+              59.27343885
+            ],
+            [
+              24.8894136,
+              59.27331751
+            ],
+            [
+              24.89072852,
+              59.27307283
+            ],
+            [
+              24.89104548,
+              59.27197873
+            ],
+            [
+              24.88741708,
+              59.27208998
+            ],
+            [
+              24.88736725,
+              59.27226565
+            ],
+            [
+              24.88798049,
+              59.2722483
+            ],
+            [
+              24.88867095,
+              59.27222567
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "30501:001:1066",
+        "hkood": "7880",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Kiili vald",
+        "ay_nimi": "Sõgula küla",
+        "l_aadress": "Ees-Kungla",
+        "registr": "2026-10-06Z",
+        "muudet": "2026-10-07Z",
+        "maks_hind": 12052,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 20087,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "84702",
+        "muutpohjus": null,
+        "oiguslik_alus": "Omaniku avaldus 05.10.2026\r\nKiili Vallavalitsuse 30.06.2026 korraldus nr 292",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04278219",
+        "adob_id": 11522739,
+        "kolvik_muudet": null,
+        "geom_muudet": "2026-10-06Z",
+        "listingId": "3936667",
+        "listingTitle": "Kungla, Sõgula, Kiili vald, Harjumaa",
+        "listingPrice": 555000,
+        "listingAreaM2": 60215,
+        "listingPricePerM2": 9.22,
+        "listingURL": "https://www.kv.ee/kiili-vallas-muua-602-ha-elamumaad-krunt-asub-kurn-3936667",
+        "lastSeen": "2026-10-09T17:35:03.958Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.375102",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.71102284,
+              58.86164916
+            ],
+            [
+              25.71148226,
+              58.86223375
+            ],
+            [
+              25.71173367,
+              58.86262845
+            ],
+            [
+              25.70891587,
+              58.86332783
+            ],
+            [
+              25.70441668,
+              58.86412778
+            ],
+            [
+              25.70399865,
+              58.86342021
+            ],
+            [
+              25.70675145,
+              58.86298718
+            ],
+            [
+              25.70681699,
+              58.8629768
+            ],
+            [
+              25.70688443,
+              58.86296621
+            ],
+            [
+              25.70807459,
+              58.86277925
+            ],
+            [
+              25.707844,
+              58.86209132
+            ],
+            [
+              25.71018439,
+              58.86181318
+            ],
+            [
+              25.71102284,
+              58.86164916
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "56504:001:0325",
+        "hkood": "5474",
+        "mk_nimi": "Järva maakond",
+        "ov_nimi": "Paide linn",
+        "ay_nimi": "Nurmsi küla",
+        "l_aadress": "Aia",
+        "registr": "2014-05-12Z",
+        "muudet": "2025-12-12Z",
+        "maks_hind": 9480,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 45924,
+        "haritav": 217,
+        "rohumaa": 32456,
+        "mets": 8923,
+        "ouemaa": null,
+        "muumaa": 4328,
+        "kinnistu": "2303250",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "Maakatastriseadus § 19³ lg 2 ",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU03349582",
+        "adob_id": 10356219,
+        "kolvik_muudet": "2024-09-18T23:48:11.895Z",
+        "geom_muudet": "2025-10-28Z",
+        "listingId": "3913481",
+        "listingTitle": "Aia, Nurmsi, Paide, Järvamaa",
+        "listingPrice": 35000,
+        "listingAreaM2": 45924,
+        "listingPricePerM2": 0.76,
+        "listingURL": "https://www.kv.ee/kas-oled-otsinud-avarat-maakohta-kuhu-rajada-oma-k-3913481",
+        "lastSeen": "2026-10-09T17:35:43.524Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.471784",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.25558658,
+              59.388723
+            ],
+            [
+              26.25615525,
+              59.38886647
+            ],
+            [
+              26.25745514,
+              59.38921778
+            ],
+            [
+              26.2581716,
+              59.38944726
+            ],
+            [
+              26.2584146,
+              59.38951404
+            ],
+            [
+              26.25867281,
+              59.38953933
+            ],
+            [
+              26.25873183,
+              59.38954783
+            ],
+            [
+              26.25880956,
+              59.38957299
+            ],
+            [
+              26.2589228,
+              59.38961865
+            ],
+            [
+              26.25962966,
+              59.39018769
+            ],
+            [
+              26.26010265,
+              59.39055589
+            ],
+            [
+              26.26135124,
+              59.39147181
+            ],
+            [
+              26.2624561,
+              59.39231171
+            ],
+            [
+              26.26262451,
+              59.3924297
+            ],
+            [
+              26.26279397,
+              59.39252387
+            ],
+            [
+              26.26264169,
+              59.39254311
+            ],
+            [
+              26.26251417,
+              59.39258518
+            ],
+            [
+              26.26246797,
+              59.39263475
+            ],
+            [
+              26.26247626,
+              59.39270421
+            ],
+            [
+              26.2626288,
+              59.39285131
+            ],
+            [
+              26.2631823,
+              59.39342396
+            ],
+            [
+              26.26366985,
+              59.39402954
+            ],
+            [
+              26.2637163,
+              59.39415385
+            ],
+            [
+              26.26372205,
+              59.39438449
+            ],
+            [
+              26.263608,
+              59.39457426
+            ],
+            [
+              26.26341898,
+              59.39472238
+            ],
+            [
+              26.2631516,
+              59.39488919
+            ],
+            [
+              26.26140765,
+              59.39440483
+            ],
+            [
+              26.2612692,
+              59.39448427
+            ],
+            [
+              26.26036803,
+              59.39500291
+            ],
+            [
+              26.25852832,
+              59.39412668
+            ],
+            [
+              26.25938391,
+              59.39374697
+            ],
+            [
+              26.25889122,
+              59.39261964
+            ],
+            [
+              26.25720136,
+              59.39318163
+            ],
+            [
+              26.2554752,
+              59.39194163
+            ],
+            [
+              26.25558658,
+              59.388723
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "66201:001:0204",
+        "hkood": "9196",
+        "mk_nimi": "Lääne-Viru maakond",
+        "ov_nimi": "Rakvere vald",
+        "ay_nimi": "Veltsi küla",
+        "l_aadress": "Lehtmaa",
+        "registr": "2005-02-19Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 63928,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 168723,
+        "haritav": 91636,
+        "rohumaa": 18410,
+        "mets": 46899,
+        "ouemaa": 4400,
+        "muumaa": 7378,
+        "kinnistu": "2339731",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00371143",
+        "adob_id": 7927794,
+        "kolvik_muudet": "2024-04-15T11:34:52.835Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3898859",
+        "listingTitle": "Veltsi, Rakvere vald, Lääne-Virumaa",
+        "listingPrice": 77500,
+        "listingAreaM2": 78723,
+        "listingPricePerM2": 0.98,
+        "listingURL": "https://www.kv.ee/muua-suureparase-asukohaga-kinnistu-lehtmaa-kulas-3898859",
+        "lastSeen": "2026-10-09T17:35:49.384Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.460417",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.93506743,
+              59.36326047
+            ],
+            [
+              24.93500784,
+              59.36275897
+            ],
+            [
+              24.93533831,
+              59.36263156
+            ],
+            [
+              24.93538059,
+              59.36266017
+            ],
+            [
+              24.93548814,
+              59.36261874
+            ],
+            [
+              24.93593999,
+              59.36292389
+            ],
+            [
+              24.93506743,
+              59.36326047
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "65301:003:0746",
+        "hkood": "9108",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Rae vald",
+        "ay_nimi": "Vaskjala küla",
+        "l_aadress": "Milgi tn 1",
+        "registr": "2006-03-07Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 82471,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 2146,
+        "haritav": null,
+        "rohumaa": 1039,
+        "mets": 889,
+        "ouemaa": null,
+        "muumaa": 218,
+        "kinnistu": "10597102",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00361846",
+        "adob_id": 561715,
+        "kolvik_muudet": "2024-01-29T14:58:47.864Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3861866",
+        "listingTitle": "Milgi tn 1, Vaskjala, Rae vald, Harjumaa",
+        "listingPrice": 298000,
+        "listingAreaM2": 2146,
+        "listingPricePerM2": 139,
+        "listingURL": "https://www.kv.ee/muua-2146-m-elamukrunt-rae-vallas-vaskjala-kulas-j-3861866.html",
+        "lastSeen": "2026-10-09T17:35:53.901Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.744298",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.2223614,
+              59.0260879
+            ],
+            [
+              23.22360474,
+              59.0255298
+            ],
+            [
+              23.22415242,
+              59.02602596
+            ],
+            [
+              23.22292903,
+              59.02634618
+            ],
+            [
+              23.2223614,
+              59.0260879
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "90701:001:0196",
+        "hkood": "1493",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Vormsi vald",
+        "ay_nimi": "Borrby küla",
+        "l_aadress": "Jobbes-Massi",
+        "registr": "2003-08-25Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 693,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 4543,
+        "haritav": null,
+        "rohumaa": 4261,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 282,
+        "kinnistu": "1783732",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00576821",
+        "adob_id": 9243714,
+        "kolvik_muudet": "2024-10-28T09:46:06.077Z",
+        "geom_muudet": "2021-12-15Z",
+        "listingId": "3859916",
+        "listingTitle": "Borrby, Vormsi vald, Läänemaa",
+        "listingPrice": 35400,
+        "listingAreaM2": 4543,
+        "listingPricePerM2": 7.79,
+        "listingURL": "https://www.kv.ee/muua-4543-m-suurune-kinnistu-jobbesmassi-borrby-ku-3859916.html",
+        "lastSeen": "2026-10-09T17:35:58.598Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.353891",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.43710707,
+              58.24259725
+            ],
+            [
+              26.43763717,
+              58.24269661
+            ],
+            [
+              26.43711173,
+              58.2430949
+            ],
+            [
+              26.43669352,
+              58.24304425
+            ],
+            [
+              26.43656997,
+              58.24303403
+            ],
+            [
+              26.43710707,
+              58.24259725
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "52801:001:1184",
+        "hkood": "9423",
+        "mk_nimi": "Tartu maakond",
+        "ov_nimi": "Nõo vald",
+        "ay_nimi": "Vissi küla",
+        "l_aadress": "Päikese tn 3",
+        "registr": "2021-12-15Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 36074,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1736,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 1736,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "20854450",
+        "muutpohjus": "KÜ piiride muutmine planeeringu alusel",
+        "oiguslik_alus": "Nõo Vallavalitsuse korraldus nr 473 04.10.2021\r\nOmaniku avaldus 15.12.2021",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU03957837",
+        "adob_id": 10421901,
+        "kolvik_muudet": "2024-01-29T14:03:24.154Z",
+        "geom_muudet": "2021-12-15Z",
+        "listingId": "3735932",
+        "listingTitle": "Päikese tn 3, Vissi, Nõo vald, Tartumaa",
+        "listingPrice": 97000,
+        "listingAreaM2": 1736,
+        "listingPricePerM2": 55.9,
+        "listingURL": "https://www.kv.ee/oled-unistanud-kodust-kus-hommikud-algavad-linnula-3735932",
+        "lastSeen": "2026-10-09T17:36:13.736Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.165250",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.2788103,
+              59.20808335
+            ],
+            [
+              24.27863637,
+              59.20781208
+            ],
+            [
+              24.27931286,
+              59.20769519
+            ],
+            [
+              24.27954788,
+              59.20805215
+            ],
+            [
+              24.27899284,
+              59.20814428
+            ],
+            [
+              24.27894644,
+              59.20805568
+            ],
+            [
+              24.2788103,
+              59.20808335
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "29704:011:0112",
+        "hkood": "3001",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Saue vald",
+        "ay_nimi": "Kibuna küla",
+        "l_aadress": "Leevikese AÜ 12a",
+        "registr": "1998-09-04Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 14098,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1628,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 1510,
+        "ouemaa": 118,
+        "muumaa": null,
+        "kinnistu": "1893902",
+        "muutpohjus": "KÜ andmete muutmine",
+        "oiguslik_alus": "ADS-i infosüsteemi automaatne andmeuuendus",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00144134",
+        "adob_id": 10139209,
+        "kolvik_muudet": "2024-01-29T16:46:18.911Z",
+        "geom_muudet": "2020-09-02Z",
+        "listingId": "3704431",
+        "listingTitle": "12a, Kibuna, Saue vald, Harjumaa",
+        "listingPrice": 34900,
+        "listingAreaM2": 1628,
+        "listingPricePerM2": 21.4,
+        "listingURL": "https://www.kv.ee/elamukrunt-kibunas-detailplaneering-puurkaev-ja-el-3704431",
+        "lastSeen": "2026-10-09T17:26:34.239Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.565406",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.38752919,
+              59.34082599
+            ],
+            [
+              26.3885992,
+              59.33949511
+            ],
+            [
+              26.38866441,
+              59.33941407
+            ],
+            [
+              26.38881697,
+              59.33922419
+            ],
+            [
+              26.38898011,
+              59.33925904
+            ],
+            [
+              26.38981523,
+              59.33943687
+            ],
+            [
+              26.3900812,
+              59.33911082
+            ],
+            [
+              26.38925257,
+              59.33892012
+            ],
+            [
+              26.3895538,
+              59.33851232
+            ],
+            [
+              26.39034399,
+              59.33744431
+            ],
+            [
+              26.39568114,
+              59.34026606
+            ],
+            [
+              26.39789204,
+              59.34144306
+            ],
+            [
+              26.39204855,
+              59.34253477
+            ],
+            [
+              26.39129063,
+              59.34297784
+            ],
+            [
+              26.39019052,
+              59.34390015
+            ],
+            [
+              26.38565082,
+              59.34316265
+            ],
+            [
+              26.38572021,
+              59.34307588
+            ],
+            [
+              26.38589758,
+              59.34285537
+            ],
+            [
+              26.38612235,
+              59.34257571
+            ],
+            [
+              26.38621993,
+              59.3424543
+            ],
+            [
+              26.38645635,
+              59.34216023
+            ],
+            [
+              26.38666802,
+              59.34189715
+            ],
+            [
+              26.38752919,
+              59.34082599
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "77004:001:0180",
+        "hkood": "8740",
+        "mk_nimi": "Lääne-Viru maakond",
+        "ov_nimi": "Rakvere vald",
+        "ay_nimi": "Ussimäe küla",
+        "l_aadress": "Rabakivi tn 9 // Moortali",
+        "registr": "1996-01-31Z",
+        "muudet": "2026-03-20Z",
+        "maks_hind": 84906,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 228208,
+        "haritav": 108795,
+        "rohumaa": 10621,
+        "mets": 95505,
+        "ouemaa": 1277,
+        "muumaa": 12010,
+        "kinnistu": "154131",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "Omaniku avaldus 24.09.2025, Omaniku avaldus 28.09.2025, Vinni Vallavalitsuse 06.03.2024 korraldus nr 72",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00437871",
+        "adob_id": 11214431,
+        "kolvik_muudet": "2025-10-03T23:46:41.794Z",
+        "geom_muudet": "2025-10-02Z",
+        "listingId": "3653436",
+        "listingTitle": "Ussimäe, Rakvere vald, Lääne-Virumaa",
+        "listingPrice": 198000,
+        "listingAreaM2": 228548,
+        "listingPricePerM2": 0.87,
+        "listingURL": "https://www.kv.ee/pakkuda-muugiks-kinnistu-mis-asub-tapselt-rakvere-3653436",
+        "lastSeen": "2026-10-09T17:26:29.395Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.391445",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.16045409,
+              58.66925748
+            ],
+            [
+              27.16074326,
+              58.66911825
+            ],
+            [
+              27.16094444,
+              58.669021
+            ],
+            [
+              27.16156605,
+              58.66934818
+            ],
+            [
+              27.1610417,
+              58.66961309
+            ],
+            [
+              27.16045409,
+              58.66925748
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "58601:001:0305",
+        "hkood": "2596",
+        "mk_nimi": "Tartu maakond",
+        "ov_nimi": "Peipsiääre vald",
+        "ay_nimi": "Kallaste linn",
+        "l_aadress": "Võidu tn 120c",
+        "registr": "2019-03-26Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 11104,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 2099,
+        "haritav": null,
+        "rohumaa": 2099,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "14689550",
+        "muutpohjus": "riigi omandisse jätmine",
+        "oiguslik_alus": "Vabariigi Valitsuse määrus nr 97 22.06.2017\r\nMaa-ameti peadirektori korraldus nr 1-17/19/720 25.03.2019",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU03312277",
+        "adob_id": 9749589,
+        "kolvik_muudet": "2024-01-29T14:05:32.185Z",
+        "geom_muudet": "2019-03-26Z",
+        "listingId": "3407270",
+        "listingTitle": "Võidu 120c, Kallaste linn, Peipsiääre vald, Tartumaa",
+        "listingPrice": 37200,
+        "listingAreaM2": 2098,
+        "listingPricePerM2": 17.7,
+        "listingURL": "https://www.kv.ee/detailplaneering-uhepereelamu-kinnitatud-saab-kohe-3407270.html",
+        "lastSeen": "2026-10-09T17:26:24.042Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.208233",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.16193026,
+              59.18789853
+            ],
+            [
+              25.16145799,
+              59.18793415
+            ],
+            [
+              25.16140765,
+              59.18773357
+            ],
+            [
+              25.1615515,
+              59.18772376
+            ],
+            [
+              25.16187848,
+              59.18770182
+            ],
+            [
+              25.1621708,
+              59.18758107
+            ],
+            [
+              25.16218758,
+              59.18757526
+            ],
+            [
+              25.1622421,
+              59.18756786
+            ],
+            [
+              25.16232628,
+              59.18786376
+            ],
+            [
+              25.1619311,
+              59.18790256
+            ],
+            [
+              25.16193026,
+              59.18789853
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "33702:003:0610",
+        "hkood": "3460",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Kose vald",
+        "ay_nimi": "Kose alevik",
+        "l_aadress": "Põllu tn 3a",
+        "registr": "1997-06-05Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 33618,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1261,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": 1261,
+        "muumaa": null,
+        "kinnistu": "403902",
+        "muutpohjus": "KÜ ruumikuju muutmine",
+        "oiguslik_alus": "Katastripidaja otsus maakatastriseaduse § 19³ lg 2 alusel andmete muutmiseks",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00177793",
+        "adob_id": 5415589,
+        "kolvik_muudet": "2024-01-29T15:47:10.632Z",
+        "geom_muudet": "2022-04-07Z",
+        "listingId": "3936651",
+        "listingTitle": "Põllu tn 3a, Kose, Kose vald, Harjumaa",
+        "listingPrice": 69000,
+        "listingAreaM2": 1261,
+        "listingPricePerM2": 54.7,
+        "listingURL": "https://www.kv.ee/muua-elamumaa-kinnistu-kose-alevikus-suureparase-a-3936651",
+        "lastSeen": "2026-10-09T17:35:08.527Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.50145",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.86603045,
+              58.2972923
+            ],
+            [
+              26.86606487,
+              58.29731471
+            ],
+            [
+              26.8660959,
+              58.29733325
+            ],
+            [
+              26.86623493,
+              58.29741207
+            ],
+            [
+              26.86664245,
+              58.29767996
+            ],
+            [
+              26.86663393,
+              58.29769696
+            ],
+            [
+              26.86662114,
+              58.29772438
+            ],
+            [
+              26.86660407,
+              58.2977475
+            ],
+            [
+              26.86658159,
+              58.29775232
+            ],
+            [
+              26.86655525,
+              58.29774537
+            ],
+            [
+              26.86652846,
+              58.29773294
+            ],
+            [
+              26.86648734,
+              58.29774151
+            ],
+            [
+              26.86640303,
+              58.29780469
+            ],
+            [
+              26.8662433,
+              58.29789555
+            ],
+            [
+              26.86611675,
+              58.29798089
+            ],
+            [
+              26.86604331,
+              58.29803081
+            ],
+            [
+              26.865988,
+              58.29806027
+            ],
+            [
+              26.86591481,
+              58.29810065
+            ],
+            [
+              26.86576374,
+              58.29816156
+            ],
+            [
+              26.86562131,
+              58.29823001
+            ],
+            [
+              26.86549574,
+              58.29826654
+            ],
+            [
+              26.86548243,
+              58.29828337
+            ],
+            [
+              26.86544571,
+              58.29830208
+            ],
+            [
+              26.86540737,
+              58.2983344
+            ],
+            [
+              26.86540048,
+              58.29837149
+            ],
+            [
+              26.8654037,
+              58.29841536
+            ],
+            [
+              26.86540516,
+              58.29847114
+            ],
+            [
+              26.86537691,
+              58.2985185
+            ],
+            [
+              26.86535004,
+              58.29855541
+            ],
+            [
+              26.86534541,
+              58.29861195
+            ],
+            [
+              26.86527756,
+              58.29862561
+            ],
+            [
+              26.86493681,
+              58.29824038
+            ],
+            [
+              26.86489645,
+              58.29818899
+            ],
+            [
+              26.86472441,
+              58.29799785
+            ],
+            [
+              26.86456402,
+              58.29782613
+            ],
+            [
+              26.86445917,
+              58.2977246
+            ],
+            [
+              26.8643664,
+              58.29763529
+            ],
+            [
+              26.8642146,
+              58.29749789
+            ],
+            [
+              26.86403909,
+              58.29735428
+            ],
+            [
+              26.86390131,
+              58.29725717
+            ],
+            [
+              26.86367365,
+              58.29709981
+            ],
+            [
+              26.86343782,
+              58.29695962
+            ],
+            [
+              26.86344996,
+              58.29694102
+            ],
+            [
+              26.86350004,
+              58.29690817
+            ],
+            [
+              26.86360216,
+              58.2968604
+            ],
+            [
+              26.86464532,
+              58.29639039
+            ],
+            [
+              26.86603045,
+              58.2972923
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "18502:004:0264",
+        "hkood": "6584",
+        "mk_nimi": "Tartu maakond",
+        "ov_nimi": "Kastre vald",
+        "ay_nimi": "Päkste küla",
+        "l_aadress": "Männi tn 14",
+        "registr": "1998-06-08Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 26176,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 19982,
+        "haritav": 10957,
+        "rohumaa": 2875,
+        "mets": null,
+        "ouemaa": 5553,
+        "muumaa": 597,
+        "kinnistu": "796604",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00060846",
+        "adob_id": 10406936,
+        "kolvik_muudet": "2025-01-26T09:27:31.241Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936633",
+        "listingTitle": "Männi 14, Päkste, Kastre vald, Tartumaa",
+        "listingPrice": 150000,
+        "listingAreaM2": 19982,
+        "listingPricePerM2": 7.51,
+        "listingURL": "https://www.kv.ee/muua-suur-hoonestatud-kinnistu-roiu-jarve-aares-su-3936633",
+        "lastSeen": "2026-10-09T17:35:13.555Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.172666",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.8187022,
+              59.32567695
+            ],
+            [
+              24.81936551,
+              59.32575055
+            ],
+            [
+              24.81954501,
+              59.32611714
+            ],
+            [
+              24.8188998,
+              59.32608041
+            ],
+            [
+              24.8187022,
+              59.32567695
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "30401:001:2506",
+        "hkood": "8824",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Kiili vald",
+        "ay_nimi": "Vaela küla",
+        "l_aadress": "Mägimänni tee 2",
+        "registr": "2015-08-27Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 63961,
+        "siht1": "ARIMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1532,
+        "haritav": 1532,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "19449450",
+        "muutpohjus": "KÜ ruumikuju muutmine",
+        "oiguslik_alus": "Omaniku avaldus 16.01.2020\r\nKiili Vallavalitsuse korraldus nr 462 04.12.2019\r\nKiili Vallavolikogu otsus nr 35 20.11.2014\r\nKiili Vallavalitsuse korraldus nr 13 15.01.2020",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU03456940",
+        "adob_id": 9834396,
+        "kolvik_muudet": "2024-01-29T17:05:45.776Z",
+        "geom_muudet": "2019-07-18Z",
+        "listingId": "3936588",
+        "listingTitle": "Mägimänni tee 2, Vaela, Kiili vald, Harjumaa",
+        "listingPrice": 122480,
+        "listingAreaM2": 1532,
+        "listingPricePerM2": 80,
+        "listingURL": "https://www.kv.ee/kiili-vallas-vaela-kulas-on-muua-1532-m-suurune-ar-3936588",
+        "lastSeen": "2026-10-09T17:35:18.576Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.172652",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.81912128,
+              59.32625561
+            ],
+            [
+              24.82003652,
+              59.32630771
+            ],
+            [
+              24.82030429,
+              59.32685347
+            ],
+            [
+              24.81939295,
+              59.3268106
+            ],
+            [
+              24.81912128,
+              59.32625561
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "30401:001:2492",
+        "hkood": "8824",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Kiili vald",
+        "ay_nimi": "Vaela küla",
+        "l_aadress": "Kastani tee 2",
+        "registr": "2015-08-27Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 80999,
+        "siht1": "ARIMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 3107,
+        "haritav": 2867,
+        "rohumaa": 240,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "19450850",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU03456949",
+        "adob_id": 9838663,
+        "kolvik_muudet": "2024-01-29T17:05:59.564Z",
+        "geom_muudet": "2020-04-30Z",
+        "listingId": "3936587",
+        "listingTitle": "Kastani tee 2, Vaela, Kiili vald, Harjumaa",
+        "listingPrice": 199900,
+        "listingAreaM2": 3107,
+        "listingPricePerM2": 64.3,
+        "listingURL": "https://www.kv.ee/muua-3107-m-suurune-arimaa-kinnistu-kiili-vallas-v-3936587",
+        "lastSeen": "2026-10-09T17:35:24.365Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.215091",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.29249842,
+              58.21165947
+            ],
+            [
+              22.29313311,
+              58.21101513
+            ],
+            [
+              22.29506329,
+              58.21144126
+            ],
+            [
+              22.2943142,
+              58.21220351
+            ],
+            [
+              22.29361293,
+              58.21291926
+            ],
+            [
+              22.29181901,
+              58.21250716
+            ],
+            [
+              22.2916973,
+              58.21247957
+            ],
+            [
+              22.29247635,
+              58.21168306
+            ],
+            [
+              22.29249842,
+              58.21165947
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "34801:008:0310",
+        "hkood": "5257",
+        "mk_nimi": "Saare maakond",
+        "ov_nimi": "Saaremaa vald",
+        "ay_nimi": "Mändjala küla",
+        "l_aadress": "Pihla",
+        "registr": "1998-03-04Z",
+        "muudet": "2025-12-15Z",
+        "maks_hind": 1776,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 22615,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 21245,
+        "ouemaa": null,
+        "muumaa": 1370,
+        "kinnistu": "328634",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00182113",
+        "adob_id": 7811539,
+        "kolvik_muudet": "2024-04-15T11:34:47.867Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3936566",
+        "listingTitle": "Kärla-Kulli, Saaremaa vald, Saaremaa",
+        "listingPrice": 54900,
+        "listingAreaM2": 22615,
+        "listingPricePerM2": 2.43,
+        "listingURL": "https://www.kv.ee/uut-omanikku-ootab-looduskaunis-kinnistu-saaremaal-3936566",
+        "lastSeen": "2026-10-09T17:35:34.269Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.415061",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.88308196,
+              58.7331967
+            ],
+            [
+              25.88343611,
+              58.7322031
+            ],
+            [
+              25.88175168,
+              58.73183529
+            ],
+            [
+              25.88097529,
+              58.73270651
+            ],
+            [
+              25.88308196,
+              58.7331967
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "61801:001:1555",
+        "hkood": "6404",
+        "mk_nimi": "Jõgeva maakond",
+        "ov_nimi": "Põltsamaa vald",
+        "ay_nimi": "Puiatu küla",
+        "l_aadress": "Riisi",
+        "registr": "2026-04-03Z",
+        "muudet": "2026-04-04Z",
+        "maks_hind": 6994,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 12966,
+        "haritav": 12937,
+        "rohumaa": 29,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "1304135",
+        "muutpohjus": null,
+        "oiguslik_alus": "Põltsamaa Vallavalitsuse 05.01.2026 korraldus nr 2-3/2026/2; Omaniku avaldus 02.04.2026",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04235482",
+        "adob_id": 11217709,
+        "kolvik_muudet": "2026-04-04T23:46:16.088Z",
+        "geom_muudet": "2026-04-03Z",
+        "listingId": "3936564",
+        "listingTitle": "Puiatu, Põltsamaa vald, Jõgevamaa",
+        "listingPrice": 12900,
+        "listingAreaM2": 20300,
+        "listingPricePerM2": 0.64,
+        "listingURL": "https://www.kv.ee/uut-omanikku-ootab-kaks-vaiksemat-pollutukki-kogup-3936564",
+        "lastSeen": "2026-10-09T17:35:38.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.415060",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.88360269,
+              58.73159046
+            ],
+            [
+              25.88370193,
+              58.73214201
+            ],
+            [
+              25.88451486,
+              58.73244071
+            ],
+            [
+              25.88537178,
+              58.73267069
+            ],
+            [
+              25.88548448,
+              58.73257636
+            ],
+            [
+              25.88588674,
+              58.73226276
+            ],
+            [
+              25.88360269,
+              58.73159046
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "61801:001:1554",
+        "hkood": "6404",
+        "mk_nimi": "Jõgeva maakond",
+        "ov_nimi": "Põltsamaa vald",
+        "ay_nimi": "Puiatu küla",
+        "l_aadress": "Tatra",
+        "registr": "2026-04-03Z",
+        "muudet": "2026-04-04Z",
+        "maks_hind": 3948,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 7138,
+        "haritav": 7097,
+        "rohumaa": null,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": 41,
+        "kinnistu": "1304135",
+        "muutpohjus": null,
+        "oiguslik_alus": "Põltsamaa Vallavalitsuse 05.01.2026 korraldus nr 2-3/2026/2; Omaniku avaldus 02.04.2026",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU04235483",
+        "adob_id": 11217710,
+        "kolvik_muudet": "2026-04-12T10:10:05.213Z",
+        "geom_muudet": "2026-04-03Z",
+        "listingId": "3936564",
+        "listingTitle": "Puiatu, Põltsamaa vald, Jõgevamaa",
+        "listingPrice": 12900,
+        "listingAreaM2": 20300,
+        "listingPricePerM2": 0.64,
+        "listingURL": "https://www.kv.ee/uut-omanikku-ootab-kaks-vaiksemat-pollutukki-kogup-3936564",
+        "lastSeen": "2026-10-09T17:35:38.692Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.351569",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.46102057,
+              59.05543486
+            ],
+            [
+              23.46006059,
+              59.05530349
+            ],
+            [
+              23.46010516,
+              59.05521668
+            ],
+            [
+              23.45997056,
+              59.05519825
+            ],
+            [
+              23.46033894,
+              59.05447582
+            ],
+            [
+              23.46140061,
+              59.05468958
+            ],
+            [
+              23.46102057,
+              59.05543486
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "52001:004:0147",
+        "hkood": "8187",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Lääne-Nigula vald",
+        "ay_nimi": "Telise küla / Tällnäs",
+        "l_aadress": "Juurika tee 31",
+        "registr": "2004-09-28Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 7514,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 5736,
+        "haritav": null,
+        "rohumaa": null,
+        "mets": 5736,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "1931332",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00281395",
+        "adob_id": 8410615,
+        "kolvik_muudet": "2024-01-29T16:02:45.031Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3800917",
+        "listingTitle": "Juurika tee 31, Telise/Tällnäs, Lääne-Nigula vald, Läänemaa",
+        "listingPrice": 25000,
+        "listingAreaM2": 5736,
+        "listingPricePerM2": 4.36,
+        "listingURL": "https://www.kv.ee/ideaalne-krunt-oma-unistuste-kodu-ehitamiseks-elam-3800917.html",
+        "lastSeen": "2026-10-09T17:36:03.630Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.490745",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.56799135,
+              58.93897662
+            ],
+            [
+              23.56799557,
+              58.93895859
+            ],
+            [
+              23.56805964,
+              58.9386953
+            ],
+            [
+              23.56813645,
+              58.93821838
+            ],
+            [
+              23.56880661,
+              58.93824135
+            ],
+            [
+              23.56867496,
+              58.93906463
+            ],
+            [
+              23.56799135,
+              58.93897662
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "67401:009:0209",
+        "hkood": "8769",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Haapsalu linn",
+        "ay_nimi": "Uuemõisa alevik",
+        "l_aadress": "Aiandi tn 3",
+        "registr": "2008-05-06Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 48603,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 3447,
+        "haritav": null,
+        "rohumaa": 3447,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "2307932",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00618197",
+        "adob_id": 7843539,
+        "kolvik_muudet": "2024-01-29T16:52:09.720Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3748827",
+        "listingTitle": "Aiandi tn 3, Uuemõisa alevik, Haapsalu, Läänemaa",
+        "listingPrice": 129000,
+        "listingAreaM2": 10868,
+        "listingPricePerM2": 11.9,
+        "listingURL": "https://www.kv.ee/vaata-videot-siit-httpswww-facebook-comreel1391196-3748827",
+        "lastSeen": "2026-10-09T17:36:09.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.490747",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.56892149,
+              58.93861306
+            ],
+            [
+              23.56898005,
+              58.93824705
+            ],
+            [
+              23.56940716,
+              58.93826085
+            ],
+            [
+              23.56934842,
+              58.93862704
+            ],
+            [
+              23.56892149,
+              58.93861306
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "67401:009:0211",
+        "hkood": "8769",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Haapsalu linn",
+        "ay_nimi": "Uuemõisa alevik",
+        "l_aadress": "Aiandi tn 5",
+        "registr": "2008-05-06Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 15100,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1008,
+        "haritav": null,
+        "rohumaa": 649,
+        "mets": 359,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "2307932",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00618196",
+        "adob_id": 7857235,
+        "kolvik_muudet": "2024-01-29T16:52:10.585Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3748827",
+        "listingTitle": "Aiandi tn 3, Uuemõisa alevik, Haapsalu, Läänemaa",
+        "listingPrice": 129000,
+        "listingAreaM2": 10868,
+        "listingPricePerM2": 11.9,
+        "listingURL": "https://www.kv.ee/vaata-videot-siit-httpswww-facebook-comreel1391196-3748827",
+        "lastSeen": "2026-10-09T17:36:09.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.490748",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.56934842,
+              58.93862704
+            ],
+            [
+              23.56940716,
+              58.93826085
+            ],
+            [
+              23.57002942,
+              58.93828096
+            ],
+            [
+              23.56967507,
+              58.93854822
+            ],
+            [
+              23.56963229,
+              58.93863633
+            ],
+            [
+              23.56934842,
+              58.93862704
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "67401:009:0212",
+        "hkood": "8769",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Haapsalu linn",
+        "ay_nimi": "Uuemõisa alevik",
+        "l_aadress": "Aiandi tn 7",
+        "registr": "2008-05-06Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 27283,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1006,
+        "haritav": null,
+        "rohumaa": 79,
+        "mets": 927,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "2307932",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00618198",
+        "adob_id": 7850886,
+        "kolvik_muudet": "2024-01-29T16:52:10.643Z",
+        "geom_muudet": "2020-04-29Z",
+        "listingId": "3748827",
+        "listingTitle": "Aiandi tn 3, Uuemõisa alevik, Haapsalu, Läänemaa",
+        "listingPrice": 129000,
+        "listingAreaM2": 10868,
+        "listingPricePerM2": 11.9,
+        "listingURL": "https://www.kv.ee/vaata-videot-siit-httpswww-facebook-comreel1391196-3748827",
+        "lastSeen": "2026-10-09T17:36:09.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.490749",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.56884578,
+              58.9390863
+            ],
+            [
+              23.56890078,
+              58.93874191
+            ],
+            [
+              23.56954399,
+              58.93882377
+            ],
+            [
+              23.5702283,
+              58.93891079
+            ],
+            [
+              23.57000157,
+              58.93906957
+            ],
+            [
+              23.56988369,
+              58.93920484
+            ],
+            [
+              23.56987295,
+              58.93921692
+            ],
+            [
+              23.56884578,
+              58.9390863
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "67401:009:0213",
+        "hkood": "8769",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Haapsalu linn",
+        "ay_nimi": "Uuemõisa alevik",
+        "l_aadress": "Linna tee 15",
+        "registr": "2008-05-06Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 24256,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 2611,
+        "haritav": null,
+        "rohumaa": 1743,
+        "mets": 868,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "2307932",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00618193",
+        "adob_id": 7844493,
+        "kolvik_muudet": "2024-01-29T16:52:09.725Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3748827",
+        "listingTitle": "Aiandi tn 3, Uuemõisa alevik, Haapsalu, Läänemaa",
+        "listingPrice": 129000,
+        "listingAreaM2": 10868,
+        "listingPricePerM2": 11.9,
+        "listingURL": "https://www.kv.ee/vaata-videot-siit-httpswww-facebook-comreel1391196-3748827",
+        "lastSeen": "2026-10-09T17:36:09.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.490750",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.56954399,
+              58.93882377
+            ],
+            [
+              23.56963229,
+              58.93863633
+            ],
+            [
+              23.56967507,
+              58.93854822
+            ],
+            [
+              23.57044504,
+              58.93875942
+            ],
+            [
+              23.5702283,
+              58.93891079
+            ],
+            [
+              23.56954399,
+              58.93882377
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "67401:009:0214",
+        "hkood": "8769",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Haapsalu linn",
+        "ay_nimi": "Uuemõisa alevik",
+        "l_aadress": "Linna tee 15a",
+        "registr": "2008-05-06Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 16361,
+        "siht1": "ELAMUMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 1162,
+        "haritav": null,
+        "rohumaa": 965,
+        "mets": 197,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "2307932",
+        "muutpohjus": "KÜ vastavusseviimine seadusega",
+        "oiguslik_alus": "Maakatastriseadus § 13¹ lg 2\r\nMaakatastriseadus § 8 lg 1",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00618199",
+        "adob_id": 7850887,
+        "kolvik_muudet": "2024-01-29T14:22:40.305Z",
+        "geom_muudet": "2020-04-29Z",
+        "listingId": "3748827",
+        "listingTitle": "Aiandi tn 3, Uuemõisa alevik, Haapsalu, Läänemaa",
+        "listingPrice": 129000,
+        "listingAreaM2": 10868,
+        "listingPricePerM2": 11.9,
+        "listingURL": "https://www.kv.ee/vaata-videot-siit-httpswww-facebook-comreel1391196-3748827",
+        "lastSeen": "2026-10-09T17:36:09.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.490751",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.56890078,
+              58.93874191
+            ],
+            [
+              23.56892149,
+              58.93861306
+            ],
+            [
+              23.56934842,
+              58.93862704
+            ],
+            [
+              23.56963229,
+              58.93863633
+            ],
+            [
+              23.56954399,
+              58.93882377
+            ],
+            [
+              23.56890078,
+              58.93874191
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "67401:009:0215",
+        "hkood": "8769",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Haapsalu linn",
+        "ay_nimi": "Uuemõisa alevik",
+        "l_aadress": "Linna tee 15b",
+        "registr": "2008-05-06Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 212,
+        "siht1": "ULDKASUTATAV_MAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 705,
+        "haritav": null,
+        "rohumaa": 705,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "2307932",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00618194",
+        "adob_id": 7851095,
+        "kolvik_muudet": "2024-01-29T16:52:09.724Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3748827",
+        "listingTitle": "Aiandi tn 3, Uuemõisa alevik, Haapsalu, Läänemaa",
+        "listingPrice": 129000,
+        "listingAreaM2": 10868,
+        "listingPricePerM2": 11.9,
+        "listingURL": "https://www.kv.ee/vaata-videot-siit-httpswww-facebook-comreel1391196-3748827",
+        "lastSeen": "2026-10-09T17:36:09.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.490752",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              23.56867496,
+              58.93906463
+            ],
+            [
+              23.56880661,
+              58.93824135
+            ],
+            [
+              23.56898005,
+              58.93824705
+            ],
+            [
+              23.56892149,
+              58.93861306
+            ],
+            [
+              23.56890078,
+              58.93874191
+            ],
+            [
+              23.56884578,
+              58.9390863
+            ],
+            [
+              23.56867496,
+              58.93906463
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "67401:009:0216",
+        "hkood": "8769",
+        "mk_nimi": "Lääne maakond",
+        "ov_nimi": "Haapsalu linn",
+        "ay_nimi": "Uuemõisa alevik",
+        "l_aadress": "Linna tee 15c",
+        "registr": "2008-05-06Z",
+        "muudet": "2025-02-28Z",
+        "maks_hind": 279,
+        "siht1": "TRANSPORDIMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 929,
+        "haritav": null,
+        "rohumaa": 929,
+        "mets": null,
+        "ouemaa": null,
+        "muumaa": null,
+        "kinnistu": "2307932",
+        "muutpohjus": "KÜ vastavusseviimine uue seadusega",
+        "oiguslik_alus": "Maa-ameti peadirektori käskkiri nr 1-1/18/2770 17.12.2018",
+        "omvorm": "Eraomand",
+        "marked": "-",
+        "ads_oid": "CU00618195",
+        "adob_id": 7854075,
+        "kolvik_muudet": "2024-01-29T16:52:09.726Z",
+        "geom_muudet": "2018-12-21Z",
+        "listingId": "3748827",
+        "listingTitle": "Aiandi tn 3, Uuemõisa alevik, Haapsalu, Läänemaa",
+        "listingPrice": 129000,
+        "listingAreaM2": 10868,
+        "listingPricePerM2": 11.9,
+        "listingURL": "https://www.kv.ee/vaata-videot-siit-httpswww-facebook-comreel1391196-3748827",
+        "lastSeen": "2026-10-09T17:36:09.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ky_kehtiv.221501",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              25.27975331,
+              59.43557252
+            ],
+            [
+              25.27992437,
+              59.43481312
+            ],
+            [
+              25.28190517,
+              59.43493552
+            ],
+            [
+              25.2842225,
+              59.43507813
+            ],
+            [
+              25.28422556,
+              59.43513143
+            ],
+            [
+              25.28471012,
+              59.43515669
+            ],
+            [
+              25.28474526,
+              59.4351585
+            ],
+            [
+              25.28442994,
+              59.43571111
+            ],
+            [
+              25.2843387,
+              59.43586723
+            ],
+            [
+              25.28425725,
+              59.43586192
+            ],
+            [
+              25.27975331,
+              59.43557252
+            ]
+          ]
+        ]
+      },
+      "geometry_name": "geom",
+      "properties": {
+        "tunnus": "35201:003:0359",
+        "hkood": "3232",
+        "mk_nimi": "Harju maakond",
+        "ov_nimi": "Kuusalu vald",
+        "ay_nimi": "Kodasoo küla",
+        "l_aadress": "Kraavi",
+        "registr": "2006-08-18Z",
+        "muudet": "2025-12-11Z",
+        "maks_hind": 7107,
+        "siht1": "MAATULUNDUSMAA",
+        "siht2": null,
+        "siht3": null,
+        "so_prts1": 100,
+        "so_prts2": null,
+        "so_prts3": null,
+        "pindala": 22977,
+        "haritav": 15670,
+        "rohumaa": null,
+        "mets": 1055,
+        "ouemaa": null,
+        "muumaa": 6252,
+        "kinnistu": "11376102",
+        "muutpohjus": "Katastriandmete parandamine MaaKatS § 19³ alusel",
+        "oiguslik_alus": "MaaKatS § 19³",
+        "omvorm": "Eraomand",
+        "marked": "Pindala on ebatäpne",
+        "ads_oid": "CU00188208",
+        "adob_id": 340041,
+        "kolvik_muudet": "2024-11-24T10:00:36.087Z",
+        "geom_muudet": "2024-04-05Z",
+        "listingId": "3733869",
+        "listingTitle": "Kraavi, Kodasoo, Kuusalu vald, Harjumaa",
+        "listingPrice": 29500,
+        "listingAreaM2": 22977,
+        "listingPricePerM2": 1.28,
+        "listingURL": "https://www.kv.ee/muua-logistiliselt-heas-asukohas-paikeseline-kinni-3733869",
+        "lastSeen": "2026-10-09T17:36:19.257Z"
+      }
+    }
+  ]
+}
