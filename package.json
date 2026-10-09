@@ -7,7 +7,8 @@
     "build": "tsc --noEmit && vite build",
     "start": "node --import tsx src/server/index.ts",
     "import": "node --import tsx src/server/import.ts",
-    "test": "node --import tsx --test --test-isolation=none tests/*.test.ts"
+    "test": "node --import tsx --test --test-isolation=none tests/*.test.ts",
+    "collect": "node --import tsx src/server/collect.ts"
   },
   "dependencies": {
     "cheerio": "^1.1.2",

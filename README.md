@@ -17,6 +17,8 @@ Open http://localhost:3000. Collection starts automatically; verified plots appe
 npm run build
 NODE_ENV=production npm start
 npm test
+# From a host allowed to fetch KV.ee: run 20 collector operations and export a snapshot
+npm run collect -- 20
 npm run import -- 'https://www.kv.ee/100-elamumaaehitamiseks-on-vaja-teha-detailplaneer-3736287.html'
 ```
 
@@ -55,3 +57,7 @@ SQLite stores listing snapshots and immutable successful observations atomically
 `npm run build` checks TypeScript and builds the frontend; `npm test` covers real listing fixtures, multi-parcel extraction, discovery/pagination, incremental scheduling, scan resumption, failure backoff, safe removal detection, geometry coordinates, caching and price history. Fixtures are trimmed observations of actual source pages, not a promise a listing remains available. No fixtures are used as runtime data.
 
 SQLite keeps staging small. PostgreSQL/PostGIS, durable hosting, authentication, broader filters and a continuously running worker remain follow-up work. The public manual-import endpoint has a process-level concurrency limit and fixed source host validation; it is not a production account-management system. Browser rendering and Docker execution have not been verified in this workspace.
+
+## Staging source access
+
+KV.ee returned HTTP 403 to the deployed Render collector during verification. Automatic collection works from the development workspace but remains blocked on that host. A partial verified initial snapshot is included in `data/bootstrap.json` so an empty staging database displays real mapped listings immediately. It retains original observation dates; the UI labels its capture time and partial coverage. This does not solve the blocked ongoing refreshes or constitute a full-market import.

@@ -1,3 +1,4 @@
+import {snapshotInfo} from './bootstrap.js';
 import {getText,SourceHTTPError} from './http.js';
 import {importListing} from './importer.js';
 import {parseSearch,searchURL} from './discovery.js';
@@ -6,7 +7,7 @@ interface Dependencies {fetchText:typeof getText;importListing:typeof importList
 export class Tracker {
  private busy=false;
  constructor(private deps:Dependencies={fetchText:getText,importListing,now:Date.now}){}
- status(){return {...syncState(),...summary(),running:this.busy,enabled:process.env.AUTO_SYNC!=='false',storage:process.env.STORAGE_MODE??'local',intervalSeconds:5};}
+ status(){return {...syncState(),...summary(),running:this.busy,enabled:process.env.AUTO_SYNC!=='false',storage:process.env.STORAGE_MODE??(process.env.RENDER==='true'?'ephemeral':'local'),intervalSeconds:5,snapshot:snapshotInfo()};}
  async tick(){
   if(this.busy)return;
   let state=syncState();const now=new Date(this.deps.now()).toISOString();
@@ -32,7 +33,7 @@ export class Tracker {
    }else if(due){
     try{await this.deps.importListing(due.url,true);checked(due.id,now);}
     catch(e){
-     if(e instanceof SourceHTTPError&&[404,410].includes(e.status)){markRemoved(due.id,now);checked(due.id,now);}
+     if(e instanceof SourceHTTPError&&e.sourceURL===due.url&&[404,410].includes(e.status)){markRemoved(due.id,now);checked(due.id,now);}
      else{failed(due.id,(e as Error).message,now);throw e;}
     }
    }

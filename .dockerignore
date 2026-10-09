@@ -1,5 +1,6 @@
 node_modules
 dist
-data
+data/*
+!data/bootstrap.json
 .git
 research

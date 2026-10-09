@@ -1,7 +1,9 @@
 import express from 'express';
+import {seedFromSnapshot} from './bootstrap.js';
 import {tracker} from './tracker.js';
 import {allListings,history} from './store.js';
 import {importListing} from './importer.js';
+seedFromSnapshot();
 const app=express();app.disable('x-powered-by');app.use(express.json({limit:'8kb'}));
 app.get('/healthz',(_,res)=>res.json({status:'ok',version:'0.2.0'}));
 app.get('/api/listings',(req,res)=>res.json(allListings().filter(l=>req.query.includeInactive==='true'||l.active)));

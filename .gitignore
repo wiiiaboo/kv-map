@@ -5,3 +5,9 @@ data/*.sqlite*
 research/home.html
 research/land.html
 research/search.html
+data/*.tmp
+research/discovery-live.html
+research/discovery-newest.html
+research/newest-listing.html
+research/http-listing.html
+research/import-result.json

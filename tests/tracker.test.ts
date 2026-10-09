@@ -39,7 +39,7 @@ test('missing results only schedule verification after two completed scans',()=>
 });
 test('confirmed detail 404 archives without changing firstSeen or lastSeen; history is retained',async()=>{
  const entry={id:listing.id,url:listing.url,fingerprint:'x'},scan={id:'scan',kind:'full' as const,offset:0,pages:0,startedAt:now()};discoverPage([entry],scan,now());saveListing({...listing});saveSyncState({...syncState(),lastFullAt:now(),lastRecentAt:now()});
- await new Tracker({now:()=>time,fetchText:async()=>page,importListing:async()=>{throw new SourceHTTPError(404);}}).tick();const archived=getListing(listing.id)!;assert.equal(archived.active,false);assert.equal(archived.firstSeen,listing.firstSeen);assert.equal(archived.lastSeen,listing.lastSeen);assert.equal(archived.removedAt,now());assert.equal(history(listing.id).length,2);
+ await new Tracker({now:()=>time,fetchText:async()=>page,importListing:async()=>{throw new SourceHTTPError(404,listing.url);}}).tick();const archived=getListing(listing.id)!;assert.equal(archived.active,false);assert.equal(archived.firstSeen,listing.firstSeen);assert.equal(archived.lastSeen,listing.lastSeen);assert.equal(archived.removedAt,now());assert.equal(history(listing.id).length,2);
 });
 test('403 detail failure preserves active data and sets a per-listing retry',async()=>{
  discoverPage([{id:listing.id,url:listing.url,fingerprint:'x'}],{id:'scan',kind:'full',offset:0,pages:0,startedAt:now()},now());saveListing({...listing});saveSyncState({...syncState(),lastFullAt:now(),lastRecentAt:now()});
@@ -48,4 +48,14 @@ test('403 detail failure preserves active data and sets a per-listing retry',asy
 test('price history preserves firstSeen and cached parcel geometry expires',()=>{
  saveListing({...listing});saveListing({...listing,firstSeen:now(),price:70000,lastSeen:now()});assert.equal(getListing(listing.id)!.firstSeen,listing.firstSeen);assert.equal(history(listing.id)[0].listing.price,70000);assert.equal(history(listing.id)[1].listing.price,75000);
  cacheParcel('24505:001:0923',listing.parcels);assert.ok(cachedParcel('24505:001:0923'));assert.equal(cachedParcel('24505:001:0923',Date.now()+31*86400000),undefined);
+});
+
+test('a cadastre HTTP 404 never marks a KV listing removed',async()=>{
+ discoverPage([{id:listing.id,url:listing.url,fingerprint:'x'}],{id:'scan',kind:'full',offset:0,pages:0,startedAt:now()},now());saveListing({...listing});saveSyncState({...syncState(),lastFullAt:now(),lastRecentAt:now()});
+ await new Tracker({now:()=>time,fetchText:async()=>page,importListing:async()=>{throw new SourceHTTPError(404,'https://gsavalik.envir.ee/geoserver/kataster/wfs');}}).tick();assert.equal(getListing(listing.id)!.active,true);assert.equal(history(listing.id).length,1);
+});
+
+test('bootstrap snapshot loads real mapped listings once and preserves observation dates',async()=>{
+ const {seedFromSnapshot,snapshotInfo}=await import('../src/server/bootstrap.js');
+ const snapshot=JSON.parse(readFileSync('data/bootstrap.json','utf8'));seedFromSnapshot();const info=snapshotInfo();assert.equal(info?.count,snapshot.listings.length);for(const l of snapshot.listings){assert.equal(getListing(l.id)!.lastSeen,l.lastSeen);assert.equal(getListing(l.id)!.firstSeen,l.firstSeen);assert.equal(history(l.id).length,1);}seedFromSnapshot();assert.equal(history(snapshot.listings[0].id).length,1);
 });
