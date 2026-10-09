@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: kv-parcel-map-staging
+    runtime: docker
+    plan: free
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DB_PATH
+        value: /app/data/listings.sqlite

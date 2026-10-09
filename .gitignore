@@ -1,0 +1,7 @@
+node_modules/
+dist/
+data/*.sqlite*
+.env
+research/home.html
+research/land.html
+research/search.html
