@@ -1,12 +1,13 @@
-# Test on Render from an iPad
+# Render staging
 
-1. Put this project's source in a GitHub repository. Include `Dockerfile`, `render.yaml`, source files and package lock; exclude `node_modules`, `dist`, local databases and credentials.
-2. In the Render dashboard choose **New → Blueprint** and connect that repository. Render reads `render.yaml` and creates a free Docker web service named `kv-parcel-map-staging`.
-3. Once deployment is Live, open the HTTPS `onrender.com` URL shown on the service page in Safari.
-4. Click **Try the verified Haapse listing**. The server fetches KV.ee and the official cadastral geometry, then draws the parcel. Check the popup, listing details and refresh action.
+The deployed app is at https://kv-parcel-map-staging.onrender.com . Source: https://github.com/wiiiaboo/kv-map .
 
-The free staging service stores SQLite on an ephemeral filesystem: imports and history can be lost on redeploy or restart. Free services can sleep and take time to wake up. This setup is for testing, not durable market tracking. Persistent history later requires a paid service with a disk mounted at `/app/data`, or a database migration.
+After a source update, Render's automatic deployment should build the latest main branch. If auto-deploy is disabled, open the **kv-parcel-map-staging** service and choose **Manual Deploy → Deploy latest commit**. No new Blueprint is needed.
 
-The saved local example database is intentionally excluded from the Docker image. Render starts empty and imports the real listing on demand. If KV.ee blocks requests from Render, the app reports the error instead of drawing fabricated data.
+Once Live, open the app in Safari. The status panel shows discovery and mapping progress; listings appear automatically without pasting URLs. Allow a minute for the first parcels and hours of awake runtime for the entire market. The page refreshes its data every 15 seconds.
 
-No Render API credential is needed for this dashboard workflow. Never put an API key in the repository or chat.
+The included `render.yaml` keeps the user's chosen free plan. It starts the automatic collector with the web server. Free services sleep when unused, so collection pauses while sleeping. SQLite files, crawl checkpoints, geometry caches and price history can be lost on restart/redeploy. Collection restarts when storage is empty. This staging setup does not guarantee an always-current full feed.
+
+For uninterrupted collection and persistent history later, use an always-on service with a persistent disk at `/app/data`, or migrate storage and run a scheduled worker. This change does not provision any paid resources.
+
+Troubleshooting: `GET /healthz` checks availability; `GET /api/sync` shows collector errors/backoff. If KV.ee blocks Render's address or changes markup, the collector reports the error and retries conservatively. It does not bypass source restrictions or fabricate parcel data.

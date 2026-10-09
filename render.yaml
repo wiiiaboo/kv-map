@@ -9,3 +9,7 @@ services:
         value: production
       - key: DB_PATH
         value: /app/data/listings.sqlite
+      - key: AUTO_SYNC
+        value: "true"
+      - key: STORAGE_MODE
+        value: ephemeral

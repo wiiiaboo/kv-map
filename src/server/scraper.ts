@@ -3,7 +3,7 @@ import type { Listing } from './types.js';
 export const cadastralNumbers = (text:string) => [...new Set(text.match(/(?<!\d)\d{5}:\d{3}:\d{4}(?!\d)/g) ?? [])];
 export function listingURL(input:string) {
  const u=new URL(input);
- if(u.protocol!=='https:' || !['kv.ee','www.kv.ee'].includes(u.hostname) || u.port || u.username || u.password || !/(?:^\/\d{5,10}$|-\d{5,10}\.html$)/.test(u.pathname)) throw new Error('Enter an individual HTTPS KV.ee listing URL.');
+ if(u.protocol!=='https:' || !['kv.ee','www.kv.ee'].includes(u.hostname) || u.port || u.username || u.password || !/(?:^\/\d{5,10}$|-\d{5,10}(?:\.html)?$)/.test(u.pathname)) throw new Error('Enter an individual HTTPS KV.ee listing URL.');
  u.hostname='www.kv.ee'; u.search='';u.hash=''; return u.href;
 }
 const number = (value:string) => { const n=Number(value.replace(/[\s\u00a0]/g,'').replace(',','.')); return Number.isFinite(n)&&n>0?n:null; };
