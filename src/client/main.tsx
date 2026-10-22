@@ -35,6 +35,10 @@ function App(){
    style:f=>({color:f?.properties.listingId===selected?'#d27731':'#347965',weight:2,fillColor:f?.properties.listingId===selected?'#e2a166':'#63aa90',fillOpacity:.28}),
    onEachFeature:(f,polygon)=>{const listing=listings.find(l=>l.id===f.properties.listingId)!;const el=document.createElement('div');const title=document.createElement('strong');title.textContent=listing.title;const details=document.createElement('p');details.textContent=`${money(listing.price)} · ${area(listing.area)} (whole listing)\n${f.properties.tunnus} · ${area(typeof f.properties.pindala==='number'?f.properties.pindala:null)} (parcel)\n${landUseText(f)}`;const a=document.createElement('a');a.href=listing.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent='View listing on KV.ee ↗';el.append(title,details,a);polygon.bindPopup(el).on('click',()=>setSelected(listing.id));}
   }).addTo(map.current);
+ },[listings,filters,sort]);
+ useEffect(()=>{
+  if(!map.current)return;
+  layer.current?.setStyle(f=>({color:f?.properties.listingId===selected?'#d27731':'#347965',weight:2,fillColor:f?.properties.listingId===selected?'#e2a166':'#63aa90',fillOpacity:.28}));
   const features=currentResult?.parcels??results.flatMap(r=>r.parcels);
   const viewKey=JSON.stringify([selected??'all',filters]);
   // Background imports never reset a visitor's pan or zoom.
