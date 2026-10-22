@@ -61,3 +61,10 @@ SQLite keeps staging small. PostgreSQL/PostGIS, durable hosting, authentication,
 ## Staging source access
 
 KV.ee returned HTTP 403 to the deployed Render collector during verification. Automatic collection works from the development workspace but remains blocked on that host. A partial verified initial snapshot is included in `data/bootstrap.json` so an empty staging database displays real mapped listings immediately. It retains original observation dates; the UI labels its capture time and partial coverage. This does not solve the blocked ongoing refreshes or constitute a full-market import.
+
+
+## Map filters and official land use
+
+The frontend filters price, listing area, €/m², location/cadastral number and official parcel purpose. Area bounds can be entered in m² or hectares; changing units preserves the same physical range. Results sort by newest date, price, area or €/m², with unknown numeric values last. Numeric filters exclude listings missing the required value. When KV.ee does not provide €/m², the app uses listing price divided by listing area and labels the calculated value.
+
+Official parcel purpose comes from the stored cadastral `siht1`–`siht3` fields, with `so_prts1`–`so_prts3` percentages. Each parcel keeps its own purposes, including secondary purposes. For a multi-parcel listing, filtering by purpose draws only matching parcel shapes; the asking price and listing area still refer to the entire bundle. Official individual parcel areas are shown separately in the popup and details. Unknown purposes remain explicit. Maatulundusmaa means agricultural/forestry purpose, which does not establish forest cover or building permission. These fields already exist in the saved snapshot, so filter operation needs no new KV.ee requests.

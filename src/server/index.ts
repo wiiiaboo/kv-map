@@ -5,7 +5,7 @@ import {allListings,history} from './store.js';
 import {importListing} from './importer.js';
 seedFromSnapshot();
 const app=express();app.disable('x-powered-by');app.use(express.json({limit:'8kb'}));
-app.get('/healthz',(_,res)=>res.json({status:'ok',version:'0.2.0'}));
+app.get('/healthz',(_,res)=>res.json({status:'ok',version:'0.3.0'}));
 app.get('/api/listings',(req,res)=>res.json(allListings().filter(l=>req.query.includeInactive==='true'||l.active)));
 app.get('/api/sync',(_,res)=>res.json(tracker.status()));
 app.get('/api/listings/:id/history',(req,res)=>res.json(history(req.params.id)));
