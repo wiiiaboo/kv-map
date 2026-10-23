@@ -13,6 +13,10 @@ const money=(n:number|null)=>n===null?'Not supplied':new Intl.NumberFormat('en-E
 const area=(n:number|null)=>n===null?'Not supplied':`${n.toLocaleString()} m²`;
 interface SyncStatus {leiakv?:{lastSuccessAt:string|null;lastError:string|null;nextRunAt:string|null;total:number;processed:number;active:number;mapped:number;running:boolean;enabled:boolean};snapshot:{capturedAt:string;count:number}|null;enabled:boolean;running:boolean;discovered:number;imported:number;active:number;mapped:number;withoutGeometry:number;pending:number;errors:number;lastError:string|null;retryAt:string|null;lastFullAt:string|null;storage:string;scan:{kind:string;pages:number}|null;}
 function App(){
+ const [theme,setTheme]=useState<'light'|'dark'>(()=>document.documentElement.dataset.theme==='dark'?'dark':'light');
+ useEffect(()=>{document.documentElement.dataset.theme=theme;document.querySelector('meta[name="theme-color"]')?.setAttribute('content',theme==='dark'?'#101814':'#fcfcf7');},[theme]);
+ function toggleTheme(){const next=theme==='dark'?'light':'dark';setTheme(next);try{localStorage.setItem('parcel-atlas-theme',next);}catch{/* Theme switching still works when browser storage is disabled. */}}
+
  const [listings,setListings]=useState<Listing[]>([]),[selected,setSelected]=useState<string>(),[url,setUrl]=useState(''),[loading,setLoading]=useState(false),[error,setError]=useState(''),[notice,setNotice]=useState(''),[history,setHistory]=useState<any[]>([]),[sync,setSync]=useState<SyncStatus|null>(null),[showImport,setShowImport]=useState(false),[filters,setFilters]=useState<Filters>({...EMPTY_FILTERS}),[sort,setSort]=useState<SortOrder>('newest'),[visible,setVisible]=useState(50);
  const mapEl=useRef<HTMLDivElement>(null),map=useRef<L.Map|null>(null),layer=useRef<L.GeoJSON|null>(null),lastView=useRef<string>(''),dataKey=useRef('');
  const results=useMemo(()=>filterListings(listings,filters,sort),[listings,filters,sort]);
@@ -40,17 +44,17 @@ function App(){
  },[listings,filters,sort]);
  useEffect(()=>{
   if(!map.current)return;
-  layer.current?.setStyle(f=>({color:f?.properties.listingId===selected?'#d27731':'#347965',weight:2,fillColor:f?.properties.listingId===selected?'#e2a166':'#63aa90',fillOpacity:.28}));
+  layer.current?.setStyle(f=>({color:f?.properties.listingId===selected?(theme==='dark'?'#f0ad68':'#d27731'):(theme==='dark'?'#79c89e':'#347965'),weight:2,fillColor:f?.properties.listingId===selected?'#e2a166':'#63aa90',fillOpacity:.28}));
   layer.current?.eachLayer(item=>{const path=item as L.Path & {feature?:{properties?:{listingId?:string}}};if(path.feature?.properties?.listingId===selected)path.bringToFront();});
   const features=currentResult?.parcels??results.flatMap(r=>r.parcels);
   const viewKey=JSON.stringify([selected??'all',filters]);
   // Background imports never reset a visitor's pan or zoom.
   if(features.length&&viewKey!==lastView.current){const bounds=L.geoJSON(features as any).getBounds();map.current.fitBounds(bounds,{padding:[60,60],maxZoom:18});lastView.current=viewKey;}
- },[listings,selected,filters,sort]);
+ },[listings,selected,filters,sort,theme]);
  useEffect(()=>{let cancelled=false;setHistory([]);if(selected)fetch(`/api/listings/${encodeURIComponent(selected)}/history`).then(r=>r.json()).then(data=>{if(!cancelled)setHistory(data);}).catch(()=>{});return()=>{cancelled=true;};},[selected,current?.lastChecked,current?.lastSeen]);
  async function importURL(value:string,refresh=false){setLoading(true);setError('');setNotice('');try{const r=await fetch('/api/import',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:value,refresh})});const data=await r.json();if(!r.ok)throw Error(data.error??'Import failed');setListings(old=>[data,...old.filter(l=>l.id!==data.id)]);setSelected(data.id);setUrl('');setNotice(data.parcels.features.length?`${data.parcels.features.length} official parcels matched.`:'Listing saved; no cadastral geometry could be matched.');}catch(e){setError((e as Error).message);}finally{setLoading(false);}}
  return <div className="app">
-  <header><a className="brand" href="/"><span className="logo">◈</span> Parcel Atlas <span className="country">ESTONIA</span></a><span className="header-note"><i/> Leiakv + KV.ee × official cadastre</span></header>
+  <header><a className="brand" href="/"><span className="logo">◈</span> Parcel Atlas <span className="country">ESTONIA</span></a><div className="header-actions"><span className="header-note"><i/> Leiakv + KV.ee × official cadastre</span><button type="button" className="theme-toggle" role="switch" aria-checked={theme==='dark'} aria-label="Dark theme" title={theme==='dark'?'Switch to light theme':'Switch to dark theme'} onClick={toggleTheme}><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round">{theme==='dark'?<><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></>:<path d="M20.5 13A8.5 8.5 0 0 1 11 3.5 8.5 8.5 0 1 0 20.5 13Z"/>}</svg><span>Dark mode</span><span className="theme-switch-track" aria-hidden="true"><span/></span></button></div></header>
   <main><aside>
    <div className="eyebrow">LAND, WITH ITS REAL BOUNDARIES</div><h1>Find your place.</h1><p className="intro">Explore land listings by price, size and official cadastral land use.</p>
    <details className="sync-panel"><summary>{live?.lastSuccessAt?(live.lastError?'Leiakv connected · some updates failed':'Leiakv public API connected'):live?.lastError?'Leiakv connection needs attention':'Connecting to Leiakv public API…'}</summary>
