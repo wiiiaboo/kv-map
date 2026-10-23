@@ -1,8 +1,8 @@
 import type {Listing,Parcels} from '../server/types';
 import {landUses,UNKNOWN_USE} from '../shared/land-use';
 export type SortOrder='newest'|'price-asc'|'price-desc'|'area-asc'|'area-desc'|'unit-asc';
-export interface Filters {query:string;minPrice:string;maxPrice:string;minArea:string;maxArea:string;areaUnit:'m2'|'ha';minUnitPrice:string;maxUnitPrice:string;landUse:string;}
-export const EMPTY_FILTERS:Filters={query:'',minPrice:'',maxPrice:'',minArea:'',maxArea:'',areaUnit:'m2',minUnitPrice:'',maxUnitPrice:'',landUse:''};
+export interface Filters {query:string;source:string;minPrice:string;maxPrice:string;minArea:string;maxArea:string;areaUnit:'m2'|'ha';minUnitPrice:string;maxUnitPrice:string;landUse:string;}
+export const EMPTY_FILTERS:Filters={query:'',source:'',minPrice:'',maxPrice:'',minArea:'',maxArea:'',areaUnit:'m2',minUnitPrice:'',maxUnitPrice:'',landUse:''};
 const bound=(value:string)=>value.trim()===''?null:Number(value);
 export function pricePerM2(listing:Listing):number|null{return listing.pricePerM2??(listing.price!==null&&listing.area!==null&&listing.area>0?listing.price/listing.area:null);}
 export function filterErrors(filters:Filters){
@@ -23,6 +23,7 @@ export function filterListings(listings:Listing[],filters:Filters,sort:SortOrder
  if(filterErrors(filters).length)return [];
  const query=filters.query.trim().toLocaleLowerCase();
  const results=listings.flatMap(listing=>{
+  if(filters.source&&(listing.source??'kv')!==filters.source)return [];
   const properties=listing.parcels.features.map(f=>{const p=f.properties??{};return [p.mk_nimi,p.ov_nimi,p.ay_nimi,p.l_aadress].join(' ');}).join(' ');
   if(query&&!`${listing.title} ${listing.cadastralNumbers.join(' ')} ${properties}`.toLocaleLowerCase().includes(query))return [];
   if(!inRange(listing.price,filters.minPrice,filters.maxPrice)||!inRange(listing.area,filters.minArea,filters.maxArea,filters.areaUnit==='ha'?10000:1)||!inRange(pricePerM2(listing),filters.minUnitPrice,filters.maxUnitPrice))return [];

@@ -36,3 +36,10 @@ test('sorts numeric values with missing values last, and supports official locat
 test('real snapshot land-use results only include matching official parcel purposes',()=>{
  const result=filterListings(snapshot,filters({landUse:'ELAMUMAA'}));assert.ok(result.length>0);assert.ok(result.length<snapshot.length);for(const r of result)for(const f of r.parcels)assert.ok(landUses(f).some(u=>u.code==='ELAMUMAA'));
 });
+
+test('source filtering keeps KV snapshots separate from live Leiakv offers',()=>{
+ const kv=listing({id:'1234567'}),lei=listing({id:'leiakv:1234567',source:'leiakv',sourceId:'1234567'});
+ assert.deepEqual(filterListings([kv,lei],filters({source:'kv'})).map(r=>r.listing.id),['1234567']);
+ assert.deepEqual(filterListings([kv,lei],filters({source:'leiakv'})).map(r=>r.listing.id),['leiakv:1234567']);
+ assert.equal(filterListings([kv,lei],filters({})).length,2);
+});

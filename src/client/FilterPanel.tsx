@@ -13,7 +13,8 @@ export function FilterPanel({filters,setFilters,listings}:{filters:Filters;setFi
  return <section className="filter-section" aria-label="Listing filters">
   <label htmlFor="plot-search">Location or cadastral number</label><input id="plot-search" className="search-input" placeholder="e.g. Harjumaa, Haapse, 24505:…" value={filters.query} onChange={e=>update('query',e.target.value)}/>
   <details className="filters-panel" open><summary>Filters <span className="filter-badge">{active?`${active} set`:'All plots'}</span></summary><div className="filter-fields">
-   {range('Asking price (€)','minPrice','maxPrice')}
+   <label htmlFor="listing-source">Listing source</label><select id="listing-source" value={filters.source} onChange={e=>update('source',e.target.value)}><option value="">All sources</option><option value="leiakv">Leiakv · public API</option><option value="kv">KV.ee · saved snapshot</option></select>
+   {range('Asking price (€)' ,'minPrice','maxPrice')}
    <div className="area-unit"><span>Area units</span><div role="group" aria-label="Area units"><button type="button" aria-pressed={filters.areaUnit==='m2'} onClick={()=>setFilters(changeAreaUnit(filters,'m2'))}>m²</button><button type="button" aria-pressed={filters.areaUnit==='ha'} onClick={()=>setFilters(changeAreaUnit(filters,'ha'))}>ha</button></div></div>
    {range(`Listing area (${filters.areaUnit==='ha'?'ha':'m²'})`,'minArea','maxArea')}
    {range('Price per m² (€)','minUnitPrice','maxUnitPrice')}

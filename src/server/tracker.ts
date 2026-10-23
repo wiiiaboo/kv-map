@@ -7,7 +7,7 @@ interface Dependencies {fetchText:typeof getText;importListing:typeof importList
 export class Tracker {
  private busy=false;
  constructor(private deps:Dependencies={fetchText:getText,importListing,now:Date.now}){}
- status(){return {...syncState(),...summary(),running:this.busy,enabled:process.env.AUTO_SYNC!=='false',storage:process.env.STORAGE_MODE??(process.env.RENDER==='true'?'ephemeral':'local'),intervalSeconds:5,snapshot:snapshotInfo()};}
+ status(){return {...syncState(),...summary(),running:this.busy,enabled:process.env.AUTO_SYNC!=='false'&&process.env.KV_SYNC==='true',storage:process.env.STORAGE_MODE??(process.env.RENDER==='true'?'ephemeral':'local'),intervalSeconds:5,snapshot:snapshotInfo()};}
  async tick(){
   if(this.busy)return;
   let state=syncState();const now=new Date(this.deps.now()).toISOString();
@@ -41,6 +41,6 @@ export class Tracker {
   }catch(e){state.consecutiveErrors++;state.lastError=(e as Error).message;const delay=Math.min(3600000,60000*2**Math.min(state.consecutiveErrors-1,6));state.retryAt=new Date(this.deps.now()+delay).toISOString();console.error('Tracker paused:',state.lastError);}
   finally{saveSyncState(state);this.busy=false;}
  }
- start(){if(process.env.AUTO_SYNC==='false')return;const timer=setInterval(()=>void this.tick(),5000);timer.unref();void this.tick();return timer;}
+ start(){if(process.env.AUTO_SYNC==='false'||process.env.KV_SYNC!=='true')return;const timer=setInterval(()=>void this.tick(),5000);timer.unref();void this.tick();return timer;}
 }
 export const tracker=new Tracker();

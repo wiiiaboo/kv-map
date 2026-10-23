@@ -9,7 +9,7 @@ export function seedFromSnapshot(){
  info={capturedAt:snapshot.capturedAt,count:snapshot.listings.length};
  if(allListings().length)return;
  for(const listing of snapshot.listings){
-  if(!/^\d{5,10}$/.test(listing.id)||listing.parcels?.type!=='FeatureCollection')throw Error('Invalid bootstrap listing');
+  if(!(listing.source==='leiakv'?/^leiakv:[a-zA-Z0-9_-]{1,200}$/.test(listing.id):/^\d{5,10}$/.test(listing.id))||listing.parcels?.type!=='FeatureCollection')throw Error('Invalid bootstrap listing');
   for(const f of listing.parcels.features){if(!['Polygon','MultiPolygon'].includes(f.geometry.type)||!listing.cadastralNumbers.includes(String(f.properties?.tunnus)))throw Error('Unverified bootstrap geometry');}
   saveListing(listing);
  }

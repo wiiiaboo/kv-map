@@ -13,3 +13,7 @@ services:
         value: "true"
       - key: STORAGE_MODE
         value: ephemeral
+      - key: LEIAKV_SYNC
+        value: "true"
+      - key: KV_SYNC
+        value: "false"

@@ -17,3 +17,7 @@ Troubleshooting: `GET /healthz` checks availability; `GET /api/sync` shows colle
 The deployed collector received HTTP 403 from KV.ee on Render on 2026-10-09. It could not discover listings there, although the same normal HTTP importer succeeded from the development workspace. The collector keeps its error visible and backs off; this version does not bypass that restriction.
 
 A partial verified snapshot collected in the development workspace is bundled as `data/bootstrap.json`. On an empty database it populates the map automatically. Its capture time and size are shown on the page. It is not a complete market import, and it does not establish that Render refreshes are working. Full unattended tracking needs a source-access arrangement that allows the collector's host to fetch KV.ee.
+
+## Leiakv live-source update
+
+The app now imports the documented anonymous Leiakv public API automatically on startup and hourly while the service is awake. `LEIAKV_SYNC` defaults to enabled; KV scraping is disabled unless `KV_SYNC=true` is explicitly set. This works without changing Render environment variables manually. The source filter switches between Leiakv and the saved KV dataset; the collection panel reports the Leiakv connection separately.
